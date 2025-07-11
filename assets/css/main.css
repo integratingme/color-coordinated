@@ -1,0 +1,62 @@
+@import "tailwindcss";
+
+/* Font Faces */
+@font-face {
+  font-family: 'Cera Pro';
+  src: url('~/assets/fonts/Cera-Pro-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cera Pro';
+  src: url('~/assets/fonts/Cera-Pro-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cera Pro';
+  src: url('~/assets/fonts/Cera-Pro-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Denver Serial';
+  src: url('~/assets/fonts/denver_serial-bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Denver Serial';
+  src: url('~/assets/fonts/denver_serial-regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Denver Serial';
+  src: url('~/assets/fonts/denver_serial-medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@theme {
+  /* Farben Corporate */
+  --color-corporate-primary: #615c59;      /* primary corporate */
+  --color-corporate-overlay: #615c5980;    /* 50% for pages */
+  --color-corporate-footer: #615c59;       /* for footer */
+  --color-corporate-text: #ffffff;         /* schrift footer */
+  
+  /* Farben Private */
+  --color-private-light: #f0eded;          /* primary private */
+  --color-private-overlay: #f0eded80;      /* 50% for pages */
+  --color-private-medium: #dedede;         /* for footer */
+  --color-private-dark: #615c59;           /* schrift footer */
+
+  /* Font Families */
+  --font-family-cera: 'Cera Pro', ui-sans-serif, system-ui, sans-serif;
+  --font-family-denver: 'Denver Serial', ui-serif, serif;
+} 

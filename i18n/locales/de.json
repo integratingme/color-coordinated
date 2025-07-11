@@ -1,0 +1,14 @@
+{
+  "welcome": "Willkommen",
+  "locales": {
+    "en": {
+      "name": "Englisch"
+    },
+    "de": {
+      "name": "Deutsch"
+    },
+    "pl": {
+      "name": "Polnisch"
+    }
+  }
+}
