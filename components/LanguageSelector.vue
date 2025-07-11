@@ -16,11 +16,7 @@
         </svg>
       </button>
 
-      <div class="mt-2 text-center">
-        <p class="text-xs text-corporate-primary font-cera">
-          Trenutni jezik: <span class="font-medium">{{ locale.toUpperCase() }}</span>
-        </p>
-      </div>
+
     </div>
 
     <div
@@ -49,11 +45,10 @@
 <script setup>
 import { computed, ref, onMounted, watch } from "vue";
 // Import necessary composables from #imports (Nuxt's auto-imports)
-import { useI18n, useSwitchLocalePath } from "#imports";
+import { useI18n } from "#imports";
 
 // Initialize i18n composables
-const { locale, locales, t } = useI18n(); // `locale` is the current active language code, `locales` are all defined locales, `t` is the translation function
-const switchLocalePath = useSwitchLocalePath(); // Function to generate locale-aware paths
+const { locale, locales, setLocale } = useI18n(); // `locale` is the current active language code, `locales` are all defined locales, `setLocale` is the function to change locale
 
 // State for dropdown visibility
 const isOpen = ref(false);
@@ -66,7 +61,7 @@ const switchLanguage = (languageCode) => {
   console.log('Switching to language:', languageCode);
   console.log('Available locales before switch:', locales.value);
   console.log('Current locale before switch:', locale.value);
-  locale.value = languageCode;
+  setLocale(languageCode);
   console.log('Current locale after switch:', locale.value);
   isOpen.value = false;
 };

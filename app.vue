@@ -7,6 +7,7 @@ const { locales, setLocale } = useI18n()
     <div class="container mx-auto px-4 py-16">
       <!-- Language Selector -->
       <div class="flex justify-end mb-8">
+        <!-- Simple language selector (commented out)
         <div class="flex gap-2">
           <button 
             v-for="locale in locales" 
@@ -16,6 +17,8 @@ const { locales, setLocale } = useI18n()
             {{ locale.name }}
           </button>
         </div>
+        -->
+        <LanguageSelector />
       </div>
       
       <div class="text-center">
