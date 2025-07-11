@@ -1,7 +1,29 @@
+<script setup>
+const { locales, setLocale } = useI18n()
+</script>
+
 <template>
   <div class="min-h-screen bg-private-light font-cera">
     <div class="container mx-auto px-4 py-16">
+      <!-- Language Selector -->
+      <div class="flex justify-end mb-8">
+        <div class="flex gap-2">
+          <button 
+            v-for="locale in locales" 
+            @click="setLocale(locale.code)"
+            class="px-4 py-2 bg-white border border-private-medium rounded-xl hover:bg-private-light transition-colors duration-200"
+          >
+            {{ locale.name }}
+          </button>
+        </div>
+      </div>
+      
       <div class="text-center">
+        <!-- Welcome Message -->
+        <p class="text-2xl text-corporate-primary mb-4 font-cera font-light">
+          {{ $t('welcome') }}
+        </p>
+        
         <h1 class="text-4xl md:text-6xl font-bold text-corporate-primary mb-4 font-denver">
           Color Coordinated
         </h1>
