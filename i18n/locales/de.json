@@ -10,5 +10,19 @@
     "pl": {
       "name": "Polnisch"
     }
+  },
+  "home": {
+    "private_title": "private",
+    "corporate_title": "corporate",
+    "auto_transport": "AUTOMATISCHER TRANSPORT",
+    "corporate_subtitle": "FÜR IMMOBILIENENTWICKLUNG"
+  },
+  "menu": {
+    "mission": "Mission",
+    "team": "Team",
+    "howWeWork": "Wie wir arbeiten",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "press": "Presse"
   }
 }

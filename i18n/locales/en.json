@@ -10,5 +10,19 @@
     "pl": {
       "name": "Polish"
     }
+  },
+  "home": {
+    "private_title": "private",
+    "corporate_title": "corporate",
+    "auto_transport": "AUTOMATIC TRANSPORT",
+    "corporate_subtitle": "FOR REAL ESTATE DEVELOPMENT"
+  },
+  "menu": {
+    "mission": "Mission",
+    "team": "Team",
+    "howWeWork": "How We Work",
+    "contact": "Contact us",
+    "faq": "FAQ",
+    "press": "Press"
   }
 }

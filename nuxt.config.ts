@@ -6,9 +6,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ['~/assets/css/main.css'],
   vite: {
-    plugins: [
-      tailwindcss(),
-    ],
+    assetsInclude: ['**/*.m4v']
   },
   modules: [
     '@nuxtjs/i18n'

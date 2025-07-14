@@ -1,5 +1,10 @@
 {
-  "welcome": "Witaj",
+  "home": {
+    "private_title": "prywatny",
+    "corporate_title": "korporacyjny",
+    "auto_transport": "TRANSPORT AUTOMATYCZNY",
+    "corporate_subtitle": "DLA ROZWOJU NIERUCHOMOŚCI"
+  },
   "locales": {
     "en": {
       "name": "Angielski"
@@ -10,5 +15,13 @@
     "pl": {
       "name": "Polski"
     }
+  },
+  "menu": {
+    "mission": "Misja",
+    "team": "Zespół",
+    "howWeWork": "Jak pracujemy",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "press": "Prasa"
   }
 }
