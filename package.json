@@ -6,8 +6,7 @@
         "build": "nuxt build",
         "dev": "nuxt dev",
         "generate": "nuxt generate",
-        "preview": "nuxt preview",
-        "postinstall": "[ \"$NODE_ENV\" = \"development\" ] && nuxt prepare || exit 0"
+        "preview": "nuxt preview"
     },
     "engines": {
         "node": "22.17.0",
