@@ -59,4 +59,23 @@
   /* Font Families */
   --font-family-cera: 'Cera Pro', ui-sans-serif, system-ui, sans-serif;
   --font-family-denver: 'Denver Serial', ui-serif, serif;
+}
+
+/* Fallback CSS variables for better browser support */
+:root {
+  /* Farben Corporate */
+  --color-corporate-primary: #615c59;      /* primary corporate */
+  --color-corporate-overlay: #615c5980;    /* 50% for pages */
+  --color-corporate-footer: #615c59;       /* for footer */
+  --color-corporate-text: #ffffff;         /* schrift footer */
+  
+  /* Farben Private */
+  --color-private-light: #f0eded;          /* primary private */
+  --color-private-overlay: #f0eded80;      /* 50% for pages */
+  --color-private-medium: #dedede;         /* for footer */
+  --color-private-dark: #615c59;           /* schrift footer */
+
+  /* Font Families */
+  --font-family-cera: 'Cera Pro', ui-sans-serif, system-ui, sans-serif;
+  --font-family-denver: 'Denver Serial', ui-serif, serif;
 } 
