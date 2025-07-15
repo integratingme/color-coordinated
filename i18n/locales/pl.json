@@ -1,4 +1,5 @@
 {
+  "welcome": "Witamy",
   "home": {
     "private_title": "prywatny",
     "corporate_title": "korporacyjny",
@@ -23,5 +24,60 @@
     "contact": "Kontakt",
     "faq": "FAQ",
     "press": "Prasa"
+  },
+  "corporate": {
+    "upgradeFloorplan": {
+      "title": "Upgrade Floorplan – Optymalizacja rzutów dla sukcesu rynkowego",
+      "intro": "Dzięki naszemu kompleksowemu doświadczeniu w rozwoju nieruchomości oraz w obszarze pre- i after-sales, wnosiemy unikalną perspektywę do procesu planowania. W przeciwieństwie do klasycznych biur architektonicznych, mamy bezpośredni kontakt z klientami końcowymi i dzięki temu rozwinęliśmy głębokie zrozumienie wymagań rynkowych i grup docelowych.",
+      "serviceIntro": "Dzięki naszemu serwisowi Upgrade Floorplan wspieramy deweloperów w strategicznej optymalizacji ich projektów:",
+      "benefits": [
+        "Efektywne wykorzystanie niewykrytych metrów kwadratowych",
+        "Redukcja niepotrzebnych kosztów budowy",
+        "Dostosowanie rzutów do rzeczywistych potrzeb grup docelowych",
+        "Zwiększenie atrakcyjności rynkowej i wartości jednostek"
+      ],
+      "conclusion": "Łącząc ekspertyzę architektoniczną z prawdziwą wiedzą rynkową, tworzymy rzuty, które doskonale odpowiadają dzisiejszym potrzebom mieszkaniowym – przemyślane, efektywne i zorientowane na rynek."
+    },
+    "design": {
+      "title": "Design – Koncepcje z charakterem i przewagą rynkową",
+      "intro": "Nasz serwis Design jest skierowany do deweloperów w wczesnej fazie projektu lub z istniejącymi, już zatwierdzonymi projektami. Rozwijamy kompletny koncept projektowy – włączając materiały, produkty, kolory i tekstury – z głębokim zrozumieniem struktur kosztowych i grup docelowych.",
+      "philosophy": "Nasze przekonanie: Wspaniały design nie musi być drogi, ale przemyślany.",
+      "serviceIntro": "Z Design oferujemy:",
+      "benefits": [
+        "Kompletny, zorientowany na rynek koncept projektowy włącznie z planowaniem mebli",
+        "Wybór materiałów i produktów z uwzględnieniem kosztów",
+        "Unikalność i charakter dla silniejszej pozycji rynkowej",
+        "Prezentację designu dla jasnej komunikacji projektu z inwestorami",
+        "Specyfikacje techniczne dla płynnego procesu przetargowego",
+        "Niezawodną podstawę do opracowania przez architektów"
+      ],
+      "conclusion": "Na życzenie towarzyszymy projektowi aż do fazy budowy, aby zapewnić konsekwentną realizację jakości projektowej."
+    },
+    "marketingStrategy": {
+      "title": "Strategia Marketingowa – Opowiadaj architekturę, nie tylko sprzedawaj",
+      "intro": "Architektura to więcej niż funkcja – tworzy tożsamość i emocje. Aby zainteresowani wybrali świadomie Twój projekt, a nie po prostu jakieś mieszkanie, potrzeba narracji, która porusza i przekonuje.",
+      "description": "Nasza Strategia Marketingowa łączy architekturę, design i komunikację w jasną, potężną linię. Rozwijamy indywidualne Tożsamości Korporacyjne (CI), konceptualizujemy strony internetowe, kuratorujemy atmosferyczne wizualizacje i projektujemy wysokiej jakości drukowane foldery – wszystko z głębokim zrozumieniem idei architektonicznej i wyczuciem grup docelowych, które chcemy dotrzeć. To właśnie odróżnia nas od tradycyjnych agencji marketingowych: Jesteśmy architektami i mówimy o tym, co kochamy najbardziej – architekturze.",
+      "conclusion": "Dla Ciebie oznacza to: Twoje projekty stają się nie tylko widoczne, ale namacalne – autentycznie prezentowane, spójnie komunikowane i silniej pozycjonowane na rynku. Poprzez jasną strategię marketingową zabezpieczasz sobie decydującą przewagę konkurencyjną i trwale optymalizujesz sukces marketingowy."
+    }
+  },
+  "footer": {
+    "address": [
+      "BIURO INŻYNIERSKIE",
+      "ZIEGELOFENGASSE 20",
+      "1050 WIEDEŃ"
+    ],
+    "nav": {
+      "impressum": "Impressum",
+      "private": "Prywatny",
+      "corporate": "Korporacyjny",
+      "datenschutz": "Polityka prywatności",
+      "faq": "FAQ",
+      "press": "Prasa"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "skype": "Skype",
+      "pinterest": "Pinterest"
+    }
   }
 }

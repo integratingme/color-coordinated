@@ -1,7 +1,10 @@
 <template>
-  <div>FAQ page (Private)</div>
+  <div>FAQ page</div>
 </template>
 
 <script setup>
+definePageMeta({
+  layout: 'private'
+})
 // Add your logic here
 </script> 

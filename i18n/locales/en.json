@@ -24,5 +24,60 @@
     "contact": "Contact us",
     "faq": "FAQ",
     "press": "Press"
+  },
+  "corporate": {
+    "upgradeFloorplan": {
+      "title": "Upgrade Floorplan – Optimize Floor Plans for Market Success",
+      "intro": "Thanks to our comprehensive experience in real estate development as well as in pre- and after-sales, we bring a unique perspective to the planning process. Unlike traditional architecture firms, we have direct contact with end customers and have developed a deep understanding of market requirements and target groups.",
+      "serviceIntro": "With our Upgrade Floorplan service, we support developers in optimizing their projects strategically:",
+      "benefits": [
+        "Efficiently utilize undiscovered square meters",
+        "Reduce unnecessary construction costs",
+        "Adapt floor plans to the actual needs of target groups",
+        "Increase market attractiveness and value of units"
+      ],
+      "conclusion": "By combining architectural expertise with real market knowledge, we create floor plans that perfectly meet today's housing needs – thoughtful, efficient, and market-oriented."
+    },
+    "design": {
+      "title": "Design – Concepts with Character and Market Advantage",
+      "intro": "Our Design service is aimed at developers in the early project phase or with existing, already approved projects. We develop a complete design concept – including materials, products, colors, and textures – with a deep understanding of cost structures and target groups.",
+      "philosophy": "Our conviction: Great design doesn't have to be expensive, but thoughtful.",
+      "serviceIntro": "With Design, we offer:",
+      "benefits": [
+        "A complete, market-oriented design concept including furniture planning",
+        "Selection of materials and products considering costs",
+        "Uniqueness and character for stronger market positioning",
+        "A design presentation for clear project communication with investors",
+        "Technical specifications for a smooth tendering process",
+        "A reliable foundation for elaboration by architects"
+      ],
+      "conclusion": "Upon request, we accompany the project into the construction phase to ensure that design quality is consistently implemented."
+    },
+    "marketingStrategy": {
+      "title": "Marketing Strategy – Tell Architecture, Don't Just Sell",
+      "intro": "Architecture is more than function – it creates identity and emotion. For prospects to choose your project consciously rather than just any apartment, it takes a narrative that touches and convinces.",
+      "description": "Our Marketing Strategy connects architecture, design, and communication into a clear, powerful line. We develop individual Corporate Identities (CI), conceptualize websites, curate atmospheric visualizations, and design high-quality printed folders – all with a deep understanding of the architectural idea and a keen sense for the target groups we want to reach. This is exactly what distinguishes us from traditional marketing agencies: We are architects and speak about what we love most – architecture.",
+      "conclusion": "For you, this means: Your projects become not only visible but tangible – authentically presented, coherently communicated, and stronger positioned in the market. Through a clear marketing strategy, you secure a decisive competitive advantage and sustainably optimize marketing success."
+    }
+  },
+  "footer": {
+    "address": [
+      "ZIVILTECHNIKERBÜRO",
+      "ZIEGELOFENGASSE 20",
+      "1050 VIENNA"
+    ],
+    "nav": {
+      "impressum": "Imprint",
+      "private": "Private",
+      "corporate": "Corporate",
+      "datenschutz": "Privacy Policy",
+      "faq": "FAQ",
+      "press": "Press"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "skype": "Skype",
+      "pinterest": "Pinterest"
+    }
   }
 }

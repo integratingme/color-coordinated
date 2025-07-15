@@ -48,6 +48,6 @@ const currentLocale = locale
   opacity: 1;
 }
 .lang-btn:hover {
-  color: #dedede;
+  color: var(--color-private-medium); /* for footer */
 }
 </style> 

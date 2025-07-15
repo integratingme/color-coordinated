@@ -24,5 +24,60 @@
     "contact": "Kontakt",
     "faq": "FAQ",
     "press": "Presse"
+  },
+  "corporate": {
+    "upgradeFloorplan": {
+      "title": "Upgrade Floorplan – Grundrisse optimieren für Markterfolg",
+      "intro": "Dank unserer umfassenden Erfahrung in der Immobilienentwicklung sowie im Pre- und After-Sales-Bereich bringen wir eine einzigartige Perspektive in den Planungsprozess ein. Anders als klassische Architekturbüros haben wir direkten Kontakt zu Endkunden und dadurch ein tiefes Verständnis für Marktanforderungen und Zielgruppen entwickelt.",
+      "serviceIntro": "Mit unserem Service Upgrade Floorplan unterstützen wir Bauträger dabei, ihre Projekte gezielt zu optimieren:",
+      "benefits": [
+        "Unentdeckte Quadratmeter effizient nutzen",
+        "Überflüssige Baukosten reduzieren",
+        "Grundrisse auf die tatsächlichen Bedürfnisse der Zielgruppen abstimmen",
+        "Marktattraktivität und Wert der Einheiten steigern"
+      ],
+      "conclusion": "Durch die Verbindung von architektonischem Fachwissen und echtem Marktwissen schaffen wir Grundrisse, die heutigen Wohnbedürfnissen perfekt entsprechen – durchdacht, effizient und marktorientiert."
+    },
+    "design": {
+      "title": "Design – Konzepte mit Charakter und Marktvorteil",
+      "intro": "Unser Service Design richtet sich an Bauträger in der frühen Projektphase oder bei bestehenden, bereits genehmigten Projekten. Wir entwickeln ein vollständiges Gestaltungskonzept – inklusive Materialien, Produkten, Farben und Texturen – mit tiefem Verständnis für Kostenstrukturen und Zielgruppen.",
+      "philosophy": "Unsere Überzeugung: Großartiges Design muss nicht teuer sein, sondern durchdacht.",
+      "serviceIntro": "Mit Design bieten wir:",
+      "benefits": [
+        "Ein vollständiges, marktorientiertes Gestaltungskonzept inkl. Möbelplanung",
+        "Auswahl von Materialien und Produkten unter Berücksichtigung der Kosten",
+        "Einzigartigkeit und Charakter für eine stärkere Marktpositionierung",
+        "Eine Design-Präsentation zur klaren Projektkommunikation gegenüber Investoren",
+        "Technische Spezifikationen für einen reibungslosen Ausschreibungsprozess",
+        "Eine verlässliche Grundlage für die Ausarbeitung durch Architekten"
+      ],
+      "conclusion": "Auf Wunsch begleiten wir das Projekt bis in die Bauphase, um sicherzustellen, dass die Designqualität konsequent umgesetzt wird."
+    },
+    "marketingStrategy": {
+      "title": "Marketing Strategy – Architektur erzählen, nicht nur verkaufen",
+      "intro": "Architektur ist mehr als Funktion – sie schafft Identität und Emotion. Damit Interessenten sich nicht einfach für irgendein Apartment entscheiden, sondern bewusst für Ihr Projekt, braucht es eine Erzählung, die berührt und überzeugt.",
+      "description": "Unsere Marketing Strategy verbindet Architektur, Design und Kommunikation zu einer klaren, kraftvollen Linie. Wir entwickeln individuelle Corporate Identities (CI), konzipieren Webseiten, kuratieren stimmungsvolle Visualisierungen und gestalten hochwertige gedruckte Folder – alles mit einem tiefen Verständnis für die architektonische Idee und einem ausgeprägten Gespür für die Zielgruppen, die wir erreichen wollen. Genau das unterscheidet uns von klassischen Marketingagenturen: Wir sind Architekten und sprechen über das, was wir am meisten lieben – Architektur.",
+      "conclusion": "Für Sie bedeutet das: Ihre Projekte werden nicht nur sichtbar, sondern spürbar – authentisch präsentiert, stimmig kommuniziert und stärker im Markt positioniert. Durch eine klare Marketingstrategie sichern Sie sich einen entscheidenden Wettbewerbsvorteil und optimieren die Vermarktungserfolge nachhaltig."
+    }
+  },
+  "footer": {
+    "address": [
+      "ZIVILTECHNIKERBÜRO",
+      "ZIEGELOFENGASSE 20",
+      "1050 WIEN"
+    ],
+    "nav": {
+      "impressum": "Impressum",
+      "private": "Private",
+      "corporate": "Corporate",
+      "datenschutz": "Datenschutz",
+      "faq": "FAQ",
+      "press": "Presse"
+    },
+    "social": {
+      "instagram": "Instagram",
+      "skype": "Skype",
+      "pinterest": "Pinterest"
+    }
   }
 }
