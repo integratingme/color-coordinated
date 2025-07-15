@@ -2,27 +2,9 @@
   <div class="home-container">
     <NuxtLink to="/private" class="video-link">
       <div class="video-side left">
-        <video
-          v-if="!lampVideoError"
-          class="bg-video"
-          autoplay
-          loop
-          muted
-          playsinline
-          @error="lampVideoError = true"
-        >
-          <source :src="lampVideo" type="video/mp4" />
-          <source :src="lampVideo" type="video/quicktime" />
-          <source :src="lampVideo" type="video/x-msvideo" />
-          Your browser does not support the video tag.
-        </video>
-        <img
-          v-else
-          src="/assets/images/Home_image.png"
-          alt="Fallback image"
-          class="bg-video"
-          style="object-fit: cover;"
-        />
+        <div class="bg-video video-placeholder">
+          <span class="placeholder-text">random yt video</span>
+        </div>
         <div class="overlay-text">
           <span class="main-title">{{ $t('home.private_title') }}</span>
           <span class="subtitle">{{ $t('home.auto_transport') }}</span>
@@ -31,12 +13,9 @@
     </NuxtLink>
     <NuxtLink to="/corporate" class="video-link">
       <div class="video-side right">
-        <video class="bg-video" autoplay loop muted playsinline :key="randomVideo">
-          <source :src="randomVideo" type="video/mp4" />
-          <source :src="randomVideo" type="video/quicktime" />
-          <source :src="randomVideo" type="video/x-msvideo" />
-          Your browser does not support the video tag.
-        </video>
+        <div class="bg-video video-placeholder">
+          <span class="placeholder-text">random yt video</span>
+        </div>
         <div class="overlay-text">
           <span class="main-title">{{ $t('home.corporate_title') }}</span>
           <span class="subtitle">{{ $t('home.corporate_subtitle') }}</span>
@@ -52,18 +31,7 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 
-const lampVideo = '/videos/Home_lamp_video.m4v'
-const video1 = '/videos/Zolagasse_Video1.mov'
-const video2 = '/videos/Zolagasse_Video2.mov'
-
-const rightVideos = [video1, video2]
-const randomVideo = ref(rightVideos[0])
-const lampVideoError = ref(false)
-
-onMounted(() => {
-  const idx = Math.floor(Math.random() * rightVideos.length)
-  randomVideo.value = rightVideos[idx]
-})
+// No longer need video logic since we're using placeholders
 </script>
 
 <style scoped>
@@ -91,6 +59,18 @@ onMounted(() => {
   top: 0;
   left: 0;
   z-index: 1;
+}
+.video-placeholder {
+  background: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.placeholder-text {
+  color: #666;
+  font-size: 1.5rem;
+  font-family: var(--font-family-cera);
+  text-transform: lowercase;
 }
 .overlay-text {
   display: flex;
@@ -146,6 +126,9 @@ onMounted(() => {
   }
   .logo-container {
     width: 180px;
+  }
+  .placeholder-text {
+    font-size: 1.2rem;
   }
 }
 </style> 
