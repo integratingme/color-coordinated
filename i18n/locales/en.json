@@ -25,7 +25,121 @@
     "faq": "FAQ",
     "press": "Press"
   },
+  "ourMission": {
+    "title": "OUR",
+    "title2": "MISSION",
+    "subtitle": "CREATING VALUE",
+    "subtitleDescription": "THROUGH ARCHITECTURE AND DESIGN",
+    "leftSection": {
+      "intro": "WE ALWAYS SEE PROJECTS HOLISTICALLY – FROM THE BUYER'S PERSPECTIVE AS WELL AS FROM THE DEVELOPER'S. THIS COMPREHENSIVE UNDERSTANDING ENABLES US TO MAKE REAL ESTATE NOT ONLY MORE BEAUTIFUL, BUT ALSO MORE SUCCESSFUL: FASTER TO MARKET, BETTER SOLD, WITH HIGHER PERCEIVED VALUE.",
+      "beliefTitle": "WE BELIEVE THAT:",
+      "beliefs": [
+        "GOOD DESIGN DOESN'T HAVE TO BE A LUXURY, BUT A CONSCIOUS DECISION",
+        "THE INDIVIDUALITY OF A PROJECT CAN BE THE DECIDING FACTOR FOR ITS MARKET SUCCESS",
+        "REAL QUALITY ARISES WHEN ARCHITECTURE, ECONOMICS, AND USER EXPERIENCE ARE CONSISTENTLY THOUGHT TOGETHER"
+      ],
+      "contribution": "WITH OUR WORK, WE CONTRIBUTE TO SUSTAINABLY IMPROVING THE HOUSING OFFER ON THE MARKET – WITH BETTER FLOOR PLANS, SMARTER CONCEPTS AND DESIGNS THAT INSPIRE WITHOUT OVERWHELMING.",
+      "goal": "OUR GOAL IS NOT ONLY TO DESIGN PROJECTS, BUT TO CREATE OPPORTUNITIES: FOR BETTER LIVING SPACES, FOR MORE SUCCESSFUL DEVELOPMENTS, AND FOR A REAL ESTATE MARKET THAT PUTS PEOPLE AND THEIR NEEDS BACK AT THE CENTER."
+    },
+    "rightSection": {
+      "mission": "OUR MISSION IS CLEAR:",
+      "missionDescription": "WE CREATE ADDED VALUE. FOR DEVELOPERS, FOR END CUSTOMERS – AND FOR THE MARKET AS A WHOLE.",
+      "conviction": "WHAT DRIVES US IS THE CONVICTION THAT OUTSTANDING ARCHITECTURE AND DESIGN DON'T HAVE TO BE EXPENSIVE TO BE EFFECTIVE. IT'S ABOUT DEVELOPING ",
+      "convictionBold": "INTELLIGENT SOLUTIONS ",
+      "convictionDescription": "THAT ARE ECONOMICALLY VIABLE AND OFFER REAL ADDED VALUE TO PEOPLE. EVERY PROJECT DESERVES ITS OWN ",
+      "convictionBold2": "SIGNATURE ",
+      "convictionDescription2": "– UNMISTAKABLE, TARGETED AND THOUGHT THROUGH TO THE DETAIL.",
+      "knowhowTitle": "OUR KNOW-HOW IS UNIQUE:",
+      "knowhowIntro": "THROUGH OUR EXPERIENCE IN DEVELOPMENT, PLANNING AND MARKETING, WE COMBINE A DEEP UNDERSTANDING OF:",
+      "knowhowPoints": [
+        "THE NEEDS OF END CUSTOMERS,",
+        "THE ECONOMIC PERSPECTIVE OF DEVELOPERS,",
+        "THE TECHNICAL AND CONSTRUCTION REQUIREMENTS OF BUILDING EXECUTION."
+      ]
+    }
+  },
   "corporate": {
+    "index": {
+      "upgradeFloorplan": {
+        "label": "UPGRADE",
+        "title": "Floor Plan",
+        "subtitle": "Optimize Floor Plans for Market Success",
+        "intro": "Thanks to our comprehensive experience in real estate development as well as in pre- and after-sales, we bring a unique perspective to the planning process. Unlike traditional architecture firms, we have direct contact with end customers and have developed a deep understanding of market requirements and target groups.",
+        "serviceIntro": "With our service ",
+        "serviceIntroBold": "Upgrade Floorplan",
+        "serviceIntroEnd": " we support developers in optimizing their projects strategically:",
+        "benefits": [
+          "Efficiently utilize undiscovered square meters",
+          "Reduce unnecessary construction costs",
+          "Adapt floor plans to the actual needs of ",
+          "target groups",
+          ".",
+          "Increase market attractiveness and value of units"
+        ],
+        "conclusion": "By combining architectural expertise with real market knowledge, we create floor plans that perfectly meet today's housing needs – thoughtful, efficient, and market-oriented."
+      },
+      "conceptDesign": {
+        "label": "CONCEPT",
+        "title": "Design",
+        "subtitle": "Concepts with Character and Market Advantage",
+        "intro": "Our service ",
+        "introBold": "Design",
+        "introEnd": " is aimed at developers in the early project phase or with existing, already approved projects. We develop a ",
+        "introBold2": "complete design concept – including materials, products, colors, and textures",
+        "introEnd2": " – with a deep understanding of cost structures and ",
+        "introBold3": "target groups",
+        "introEnd3": ".",
+        "philosophy": "Our conviction: ",
+        "philosophyBold": "Great design doesn't have to be expensive, but thoughtful.",
+        "serviceIntro": "With ",
+        "serviceIntroBold": "Design",
+        "serviceIntroEnd": " we offer:",
+        "conclusion": "Upon request, we accompany the project into the construction phase to ensure that design quality is consistently implemented."
+      },
+      "marketingStrategy": {
+        "label": "STRATEGY",
+        "title": "Marketing",
+        "subtitle": "Tell Architecture, Don't Just Sell",
+        "intro": "Architecture is more than function – it creates ",
+        "introBold": "identity",
+        "introEnd": " and ",
+        "introBold2": "emotion",
+        "introEnd2": ". For prospects to choose your project consciously rather than just any apartment, it takes a narrative that touches and convinces.",
+        "description": "Our ",
+        "descriptionBold": "Marketing Strategy",
+        "descriptionEnd": " connects architecture, design, and communication into a clear, powerful line. We develop individual ",
+        "descriptionBold2": "Corporate Identities (CI)",
+        "descriptionEnd2": ", conceptualize websites, curate atmospheric visualizations, and design high-quality printed folders – all with a deep understanding of the architectural idea and a keen sense for the ",
+        "descriptionBold3": "target groups",
+        "descriptionEnd3": " we want to reach. This is exactly what distinguishes us from traditional marketing agencies: We are architects and speak about what we love most – architecture.",
+        "conclusion": "For you, this means: Your projects become not only visible but tangible – authentically presented, coherently communicated, and stronger positioned in the market. Through a clear marketing strategy, you secure a decisive competitive advantage and sustainably optimize marketing success."
+      },
+      "references": {
+        "label": "REFERENCES",
+        "title": "corporate",
+        "subtitle": "completed projects"
+      },
+      "services": {
+        "service1": {
+          "text": "A COMPLETE, MARKET-ORIENTED DESIGN CONCEPT"
+        },
+        "service2": {
+          "text": "SELECTION OF MATERIALS AND PRODUCTS TAKING COSTS INTO ACCOUNT"
+        },
+        "service3": {
+          "text": "UNIQUENESS AND CHARACTER FOR A STRONGER MARKET POSITIONING"
+        },
+        "service4": {
+          "text": "A DESIGN PRESENTATION FOR CLEAR PROJECT COMMUNICATION TO INVESTORS"
+        },
+        "service5": {
+          "text": "TECHNICAL SPECIFICATIONS FOR A SMOOTH TENDERING PROCESS"
+        },
+        "service6": {
+          "text": "A RELIABLE BASIS FOR ELABORATION BY ARCHITECTS"
+        }
+      }
+    },
     "upgradeFloorplan": {
       "title": "Upgrade Floorplan – Optimize Floor Plans for Market Success",
       "intro": "Thanks to our comprehensive experience in real estate development as well as in pre- and after-sales, we bring a unique perspective to the planning process. Unlike traditional architecture firms, we have direct contact with end customers and have developed a deep understanding of market requirements and target groups.",

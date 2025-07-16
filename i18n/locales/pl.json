@@ -25,7 +25,121 @@
     "faq": "FAQ",
     "press": "Prasa"
   },
+  "ourMission": {
+    "title": "NASZA",
+    "title2": "MISJA",
+    "subtitle": "TWORZENIE WARTOŚCI",
+    "subtitleDescription": "POPRZEZ ARCHITEKTURĘ I DESIGN",
+    "leftSection": {
+      "intro": "ZAWSZE WIDZIMY PROJEKTY HOLISTYCZNIE – Z PERSPEKTYWY KUPUJĄCEGO, JAK RÓWNIEŻ Z PERSPEKTYWY DEWELOPERA. TO KOMPREHENSYJNE ZROZUMIENIE UMOŻLIWIA NAM TWORZENIE NIERUCHOMOŚCI NIE TYLKO PIĘKNIEJSZYCH, ALE RÓWNIEŻ BARDZIEJ SUKCESYWNYCH: SZYBSZYCH NA RYNKU, LEPIEJ SPRZEDAWANYCH, Z WYŻSZĄ POSTRZEGANĄ WARTOŚCIĄ.",
+      "beliefTitle": "WIERZYMY, ŻE:",
+      "beliefs": [
+        "DOBRY DESIGN NIE MUSI BYĆ LUKSUSEM, ALE ŚWIADOMĄ DECYZJĄ",
+        "INDYWIDUALNOŚĆ PROJEKTU MOŻE BYĆ DECYDUJĄCYM CZYNNIKIEM DLA JEGO SUKCESU RYNKOWEGO",
+        "PRAWDZIWA JAKOŚĆ POWSTAJE, GDY ARCHITEKTURA, EKONOMIA I DOŚWIADCZENIE UŻYTKOWNIKA SĄ KONSEKWENTNIE MYŚLONE RAZEM"
+      ],
+      "contribution": "NASZĄ PRACĄ PRZYCZYNIAMY SIĘ DO TRWAŁEGO POPRAWIANIA OFERTY MIESZKANIOWEJ NA RYNKU – Z LEPsZYMI RZUTAMI, MĄDRZEJSZYMI KONCEPCJAMI I DESIGNEM, KTÓRY INSPIRUJE BEZ PRZYTŁACZANIA.",
+      "goal": "NASZYM CELEM NIE JEST TYLKO PROJEKTOWANIE PROJEKTÓW, ALE TWORZENIE MOŻLIWOŚCI: DLA LEPsZYCH PRZESTRZENI MIESZKANIOWYCH, DLA BARDZIEJ SUKCESYWNYCH ROZWOJÓW I DLA RYNKU NIERUCHOMOŚCI, KTÓRY STAWIA LUDZI I ICH POTRZEBY Z POWROTEM W CENTRUM."
+    },
+    "rightSection": {
+      "mission": "NASZA MISJA JEST JASNA:",
+      "missionDescription": "TWORZYMY DODATKOWĄ WARTOŚĆ. DLA DEWELOPERÓW, DLA KLIENTÓW KOŃCOWYCH – I DLA RYNKU JAKO CAŁOŚCI.",
+      "conviction": "TYM, CO NAMI KIERUJE, JEST PRZEKONANIE, ŻE WYBITNA ARCHITEKTURA I DESIGN NIE MUSZĄ BYĆ DROGIE, ABY BYĆ SKUTECZNE. CHODZI O ROZWÓJ ",
+      "convictionBold": "INTELIGENTNYCH ROZWIĄZAŃ ",
+      "convictionDescription": "KTÓRE SĄ EKONOMICZNIE OPŁACALNE I OFERUJĄ LUDZIOM PRAWDZIWĄ DODATKOWĄ WARTOŚĆ. KAŻDY PROJEKT ZASŁUGUJE NA WŁASNY ",
+      "convictionBold2": "PODPIS ",
+      "convictionDescription2": "– NIE DO POMYŁENIA, CELOWY I PRZEMYŚLANY DO SZCZEGÓŁU.",
+      "knowhowTitle": "NASZA WIEDZA JEST UNIKALNA:",
+      "knowhowIntro": "DZIĘKI NASZEMU DOŚWIADCZENIU W ROZWOJU, PLANOWANIU I MARKETINGU ŁĄCZYMY GŁĘBOKIE ZROZUMIENIE:",
+      "knowhowPoints": [
+        "POTRZEB KLIENTÓW KOŃCOWYCH,",
+        "PERSPEKTYWY EKONOMICZNEJ DEWELOPERÓW,",
+        "WYMAGAŃ TECHNICZNYCH I KONSTRUKCYJNYCH REALIZACJI BUDOWY."
+      ]
+    }
+  },
   "corporate": {
+    "index": {
+      "upgradeFloorplan": {
+        "label": "UPGRADE",
+        "title": "Rzut",
+        "subtitle": "Optymalizacja rzutów dla sukcesu rynkowego",
+        "intro": "Dzięki naszemu kompleksowemu doświadczeniu w rozwoju nieruchomości oraz w obszarze pre- i after-sales, wnosiemy unikalną perspektywę do procesu planowania. W przeciwieństwie do klasycznych biur architektonicznych, mamy bezpośredni kontakt z klientami końcowymi i dzięki temu rozwinęliśmy głębokie zrozumienie wymagań rynkowych i grup docelowych.",
+        "serviceIntro": "Dzięki naszemu serwisowi ",
+        "serviceIntroBold": "Upgrade Floorplan",
+        "serviceIntroEnd": " wspieramy deweloperów w strategicznej optymalizacji ich projektów:",
+        "benefits": [
+          "Efektywne wykorzystanie niewykrytych metrów kwadratowych",
+          "Redukcja niepotrzebnych kosztów budowy",
+          "Dostosowanie rzutów do rzeczywistych potrzeb ",
+          "grup docelowych",
+          ".",
+          "Zwiększenie atrakcyjności rynkowej i wartości jednostek"
+        ],
+        "conclusion": "Łącząc ekspertyzę architektoniczną z prawdziwą wiedzą rynkową, tworzymy rzuty, które doskonale odpowiadają dzisiejszym potrzebom mieszkaniowym – przemyślane, efektywne i zorientowane na rynek."
+      },
+      "conceptDesign": {
+        "label": "KONCEPCJA",
+        "title": "Design",
+        "subtitle": "Koncepcje z charakterem i przewagą rynkową",
+        "intro": "Nasz serwis ",
+        "introBold": "Design",
+        "introEnd": " jest skierowany do deweloperów w wczesnej fazie projektu lub z istniejącymi, już zatwierdzonymi projektami. Rozwijamy ",
+        "introBold2": "kompletny koncept projektowy – włączając materiały, produkty, kolory i tekstury",
+        "introEnd2": " – z głębokim zrozumieniem struktur kosztowych i ",
+        "introBold3": "grup docelowych",
+        "introEnd3": ".",
+        "philosophy": "Nasze przekonanie: ",
+        "philosophyBold": "Wspaniały design nie musi być drogi, ale przemyślany.",
+        "serviceIntro": "Z ",
+        "serviceIntroBold": "Design",
+        "serviceIntroEnd": " oferujemy:",
+        "conclusion": "Na życzenie towarzyszymy projektowi aż do fazy budowy, aby zapewnić konsekwentną realizację jakości projektowej."
+      },
+      "marketingStrategy": {
+        "label": "STRATEGIA",
+        "title": "Marketing",
+        "subtitle": "Opowiadaj architekturę, nie tylko sprzedawaj",
+        "intro": "Architektura to więcej niż funkcja – tworzy ",
+        "introBold": "tożsamość",
+        "introEnd": " i ",
+        "introBold2": "emocje",
+        "introEnd2": ". Aby zainteresowani wybrali świadomie Twój projekt, a nie po prostu jakieś mieszkanie, potrzeba narracji, która porusza i przekonuje.",
+        "description": "Nasza ",
+        "descriptionBold": "Strategia Marketingowa",
+        "descriptionEnd": " łączy architekturę, design i komunikację w jasną, potężną linię. Rozwijamy indywidualne ",
+        "descriptionBold2": "Tożsamości Korporacyjne (CI)",
+        "descriptionEnd2": ", konceptualizujemy strony internetowe, kuratorujemy atmosferyczne wizualizacje i projektujemy wysokiej jakości drukowane foldery – wszystko z głębokim zrozumieniem idei architektonicznej i wyczuciem ",
+        "descriptionBold3": "grup docelowych",
+        "descriptionEnd3": ", które chcemy dotrzeć. To właśnie odróżnia nas od tradycyjnych agencji marketingowych: Jesteśmy architektami i mówimy o tym, co kochamy najbardziej – architekturze.",
+        "conclusion": "Dla Ciebie oznacza to: Twoje projekty stają się nie tylko widoczne, ale namacalne – autentycznie prezentowane, spójnie komunikowane i silniej pozycjonowane na rynku. Poprzez jasną strategię marketingową zabezpieczasz sobie decydującą przewagę konkurencyjną i trwale optymalizujesz sukces marketingowy."
+      },
+      "references": {
+        "label": "REFERENCES",
+        "title": "korporacyjny",
+        "subtitle": "zrealizowane projekty"
+      },
+      "services": {
+        "service1": {
+          "text": "KOMPLETNY, ZORIENTOWANY NA RYNEK KONCEPT PROJEKTOWY"
+        },
+        "service2": {
+          "text": "WYBÓR MATERIAŁÓW I PRODUKTÓW Z UWZGLĘDNIENIEM KOSZTÓW"
+        },
+        "service3": {
+          "text": "UNIKALNOŚĆ I CHARAKTER DLA SILNIEJSZEJ POZYCJI RYNKOWEJ"
+        },
+        "service4": {
+          "text": "PREZENTACJA DESIGNU DLA JASNEJ KOMUNIKACJI PROJEKTU Z INWESTORAMI"
+        },
+        "service5": {
+          "text": "SPECYFIKACJE TECHNICZNE DLA PŁYNEGO PROCESU PRZETARGOWEGO"
+        },
+        "service6": {
+          "text": "NIEZAWODNA PODSTAWA DO OPRACOWANIA PRZEZ ARCHITEKTÓW"
+        }
+      }
+    },
     "upgradeFloorplan": {
       "title": "Upgrade Floorplan – Optymalizacja rzutów dla sukcesu rynkowego",
       "intro": "Dzięki naszemu kompleksowemu doświadczeniu w rozwoju nieruchomości oraz w obszarze pre- i after-sales, wnosiemy unikalną perspektywę do procesu planowania. W przeciwieństwie do klasycznych biur architektonicznych, mamy bezpośredni kontakt z klientami końcowymi i dzięki temu rozwinęliśmy głębokie zrozumienie wymagań rynkowych i grup docelowych.",

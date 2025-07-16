@@ -25,7 +25,126 @@
     "faq": "FAQ",
     "press": "Presse"
   },
+  "ourMission": {
+    "title": "OUR" ,
+    "title2":"MISSION",
+    "subtitle": "WERT SCHAFFEN",
+    "subtitleDescription": "DURCH ARCHITEKTUR UND DESIGN",
+    "leftSection": {
+      "intro": "WIR SEHEN PROJEKTE IMMER GANZHEITLICH – AUS DER SICHT DES KÄUFERS EBENSO WIE AUS DER DES ENTWICKLERS. DIESES UMFASSENDE VERSTÄNDNIS ERMÖGLICHT ES UNS, IMMOBILIEN NICHT NUR SCHÖNER, SONDERN AUCH ERFOLGREICHER ZU MACHEN: SCHNELLER AM MARKT, BESSER VERKAUFT, MIT HÖHEREM WAHRGENOMMENEM WERT.",
+      "beliefTitle": "WIR GLAUBEN DARAN, DASS:",
+      "beliefs": [
+        "GUTES DESIGN KEIN LUXUS SEIN MUSS, SONDERN EINE BEWUSSTE ENTSCHEIDUNG",
+        "INDIVIDUALITÄT EINES PROJEKTS DEN AUSSCHLAG FÜR SEINEN MARKTERFOLG GEBEN KANN",
+        "ECHTE QUALITÄT ENTSTEHT, WENN ARCHITEKTUR, WIRTSCHAFTLICHKEIT UND NUTZERERLEBNIS KONSEQUENT ZUSAMMENGEDACHT WERDEN"
+      ],
+      "contribution": "MIT UNSERER ARBEIT TRAGEN WIR DAZU BEI, DAS WOHNUNGSANGEBOT AUF DEM MARKT NACHHALTIG ZU VERBESSERN – MIT BESSEREN GRUNDRISSEN, KLÜGEREN KONZEPTEN UND DESIGNS, DIE BEGEISTERN, OHNE ZU ÜBERFORDERN.",
+      "goal": "UNSER ZIEL IST ES, NICHT NUR PROJEKTE ZU GESTALTEN, SONDERN CHANCEN ZU SCHAFFEN: FÜR BESSERE WOHNRÄUME, FÜR ERFOLGREICHERE ENTWICKLUNGEN UND FÜR EINEN IMMOBILIENMARKT, DER DEN MENSCHEN UND IHRE BEDÜRFNISSE WIEDER STÄRKER IN DEN MITTELPUNKT STELLT."
+    },
+    "rightSection": {
+      "mission": "UNSERE MISSION IST KLAR:",
+      "missionDescription": "WIR SCHAFFEN MEHRWERT. FÜR BAUTRÄGER, FÜR ENDKUNDEN – UND FÜR DEN MARKT INSGESAMT.",
+      "conviction": "WAS UNS ANTREIBT, IST DIE ÜBERZEUGUNG, DASS HERAUSRAGENDE ARCHITEKTUR UND DESIGN NICHT TEUER SEIN MÜSSEN, UM WIRKUNG ZU ERZIELEN. ES GEHT DARUM, ",
+      "convictionBold": "INTELLIGENTE LÖSUNGEN ",
+      "convictionDescription": "ZU ENTWICKELN, DIE WIRTSCHAFTLICH TRAGFÄHIG SIND UND DEN MENSCHEN ECHTEN MEHRWERT BIETEN. JEDES PROJEKT VERDIENT EINE EIGENE",
+      "convictionBold2": "HANDSCHRIFT ",
+      "convictionDescription2": "– UNVERWECHSELBAR, ZIELGERICHTET UND DURCHDACHT BIS INS DETAIL.",
+      "knowhowTitle": "UNSER KNOW-HOW IST EINZIGARTIG:",
+      "knowhowIntro": "DURCH UNSERE ERFAHRUNG IM BEREICH ENTWICKLUNG, PLANUNG UND VERMARKTUNG VERBINDEN WIR EIN TIEFES VERSTÄNDNIS FÜR:", 
+      "knowhowDescription": [
+        "DIE BEDÜRFNISSE DER ENDKUNDEN,",
+        "DIE WIRTSCHAFTLICHE PERSPEKTIVE DER BAUTRÄGER,",
+        "DIE TECHNISCHEN UND KONSTRUKTIVEN ANFORDERUNGEN DER BAUAUSFÜHRUNG."
+      ],
+      "knowhowPoints": [
+        "DIE BEDÜRFNISSE DER ENDKUNDEN,",
+        "DIE WIRTSCHAFTLICHE PERSPEKTIVE DER BAUTRÄGER,",
+        "DIE TECHNISCHEN UND KONSTRUKTIVEN ANFORDERUNGEN DER BAUAUSFÜHRUNG."
+      ]
+    }
+  },
   "corporate": {
+    "index": {
+      "upgradeFloorplan": {
+        "label": "UPGRADE",
+        "title": "Floorplan",
+        "subtitle": "Grundrisse optimieren für Markterfolg",
+        "intro": "Dank unserer umfassenden Erfahrung in der Immobilienentwicklung sowie im Pre- und After-Sales-Bereich bringen wir eine einzigartige Perspektive in den Planungsprozess ein. Anders als klassische Architekturbüros haben wir direkten Kontakt zu Endkunden und dadurch ein tiefes Verständnis für Marktanforderungen und Zielgruppen entwickelt.",
+        "serviceIntro": "Mit unserem Service ",
+        "serviceIntroBold": "Upgrade Floorplan",
+        "serviceIntroEnd": " unterstützen wir Bauträger dabei, ihre Projekte gezielt zu optimieren:",
+        "benefits": [
+          "Unentdeckte Quadratmeter effizient nutzen",
+          "Überflüssige Baukosten reduzieren",
+          "Grundrisse auf die tatsächlichen Bedürfnisse der ",
+          "Zielgruppen",
+          " abstimmen",
+          "Marktattraktivität und Wert der Einheiten steigern"
+        ],
+        "conclusion": "Durch die Verbindung von architektonischem Fachwissen und echtem Marktwissen schaffen wir Grundrisse, die heutigen Wohnbedürfnissen perfekt entsprechen – durchdacht, effizient und marktorientiert."
+      },
+      "conceptDesign": {
+        "label": "CONCEPT",
+        "title": "Design",
+        "subtitle": "Konzepte mit Charakter und Marktvorteil",
+        "intro": "Unser Service ",
+        "introBold": "Design",
+        "introEnd": " richtet sich an Bauträger in der frühen Projektphase oder bei bestehenden, bereits genehmigten Projekten. Wir entwickeln ein ",
+        "introBold2": "vollständiges Gestaltungskonzept – inklusive Materialien, Produkten, Farben und Texturen",
+        "introEnd2": " – mit tiefem Verständnis für Kostenstrukturen und ",
+        "introBold3": "Zielgruppen",
+        "introEnd3": ".",
+        "philosophy": "Unsere Überzeugung: ",
+        "philosophyBold": "Großartiges Design muss nicht teuer sein, sondern durchdacht.",
+        "serviceIntro": "Mit ",
+        "serviceIntroBold": "Design",
+        "serviceIntroEnd": " bieten wir:",
+        "conclusion": "Auf Wunsch begleiten wir das Projekt bis in die Bauphase, um sicherzustellen, dass die Designqualität konsequent umgesetzt wird."
+      },
+      "marketingStrategy": {
+        "label": "STRATEGY",
+        "title": "Marketing",
+        "subtitle": "Architektur erzählen, nicht nur verkaufen",
+        "intro": "Architektur ist mehr als Funktion – sie schafft ",
+        "introBold": "Identität",
+        "introEnd": " und ",
+        "introBold2": "Emotion",
+        "introEnd2": ". Damit Interessenten sich nicht einfach für irgendein Apartment entscheiden, sondern bewusst für Ihr Projekt, braucht es eine Erzählung, die berührt und überzeugt.",
+        "description": "Unsere ",
+        "descriptionBold": "Marketing Strategy",
+        "descriptionEnd": " verbindet Architektur, Design und Kommunikation zu einer klaren, kraftvollen Linie. Wir entwickeln individuelle ",
+        "descriptionBold2": "Corporate Identities (CI)",
+        "descriptionEnd2": ", konzipieren Webseiten, kuratieren stimmungsvolle Visualisierungen und gestalten hochwertige gedruckte Folder – alles mit einem tiefen Verständnis für die architektonische Idee und einem ausgeprägten Gespür für die ",
+        "descriptionBold3": "Zielgruppen",
+        "descriptionEnd3": ", die wir erreichen wollen. Genau das unterscheidet uns von klassischen Marketingagenturen: Wir sind Architekten und sprechen über das, was wir am meisten lieben – Architektur.",
+        "conclusion": "Für Sie bedeutet das: Ihre Projekte werden nicht nur sichtbar, sondern spürbar – authentisch präsentiert, stimmig kommuniziert und stärker im Markt positioniert. Durch eine klare Marketingstrategie sichern Sie sich einen entscheidenden Wettbewerbsvorteil und optimieren die Vermarktungserfolge nachhaltig."
+      },
+      "references": {
+        "label": "REFERENCES",
+        "title": "corporate",
+        "subtitle": "realisierte projekte"
+      },
+      "services": {
+        "service1": {
+          "text": "EIN VOLLSTÄNDIGES, MARKTORIENTIERTES GESTALTUNGSKONZEPT"
+        },
+        "service2": {
+          "text": "AUSWAHL VON MATERIALIEN UND PRODUKTEN UNTER BERÜCKSICHTIGUNG DER KOSTEN"
+        },
+        "service3": {
+          "text": "EINZIGARTIGKEIT UND CHARAKTER FÜR EINE STÄRKERE MARKTPOSITIONIERUNG"
+        },
+        "service4": {
+          "text": "EINE DESIGN-PRÄSENTATION ZUR KLAREN PROJEKTKOMMUNIKATION GEGENÜBER INVESTOREN"
+        },
+        "service5": {
+          "text": "TECHNISCHE SPEZIFIKATIONEN FÜR EINEN REIBUNGSLOSEN AUSSCHREIBUNGSPROZESS"
+        },
+        "service6": {
+          "text": "EINE VERLÄSSLICHE GRUNDLAGE FÜR DIE AUSARBEITUNG DURCH ARCHITEKTEN"
+        }
+      }
+    },
     "upgradeFloorplan": {
       "title": "Upgrade Floorplan – Grundrisse optimieren für Markterfolg",
       "intro": "Dank unserer umfassenden Erfahrung in der Immobilienentwicklung sowie im Pre- und After-Sales-Bereich bringen wir eine einzigartige Perspektive in den Planungsprozess ein. Anders als klassische Architekturbüros haben wir direkten Kontakt zu Endkunden und dadurch ein tiefes Verständnis für Marktanforderungen und Zielgruppen entwickelt.",
