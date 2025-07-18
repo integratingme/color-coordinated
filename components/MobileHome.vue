@@ -19,7 +19,7 @@
         </video>
         <img
           v-else
-          src="/assets/images/Home_image.png"
+          src="/assets/images/Home_image.webp"
           alt="Fallback image"
           class="bg-video"
           style="object-fit: cover;"
@@ -55,9 +55,9 @@
 <script setup>
 import { ref, onMounted } from 'vue'
 
-const lampVideo = '/videos/Home_lamp_video.m4v'
-const video1 = '/videos/Zolagasse_Video1.mov'
-const video2 = '/videos/Zolagasse_Video2.mov'
+const lampVideo = '/videos/Home_lamp_video.mp4'
+const video1 = '/videos/Zolagasse_Video1.mp4'
+const video2 = '/videos/Zolagasse_Video2.mp4'
 
 const rightVideos = [video1, video2]
 const randomVideo = ref(rightVideos[0])

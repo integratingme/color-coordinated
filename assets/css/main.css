@@ -56,9 +56,14 @@
   --color-private-medium: #dedede;         /* for footer */
   --color-private-dark: #615c59;           /* schrift footer */
 
-  /* Font Families */
+    /* Font Families */
   --font-family-cera: 'Cera Pro', ui-sans-serif, system-ui, sans-serif;
   --font-family-denver: 'Denver Serial', ui-serif, serif;
+}
+
+/* Global body text color */
+body {
+  color: #000000;
 }
 
 /* Fallback CSS variables for better browser support */

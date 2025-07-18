@@ -1,10 +1,11 @@
 <template>
-  <div>Contact Us page</div>
+  <ContactForm section="private" />
 </template>
 
 <script setup>
+import ContactForm from '~/components/ContactForm.vue'
+
 definePageMeta({
   layout: 'private'
 })
-// Add your logic here
 </script> 

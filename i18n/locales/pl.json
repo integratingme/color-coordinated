@@ -25,7 +25,121 @@
     "faq": "FAQ",
     "press": "Prasa"
   },
+  "ourMission": {
+    "title": "NASZA",
+    "title2": "MISJA",
+    "subtitle": "TWORZENIE WARTOŚCI",
+    "subtitleDescription": "POPRZEZ ARCHITEKTURĘ I DESIGN",
+    "leftSection": {
+      "intro": "ZAWSZE WIDZIMY PROJEKTY HOLISTYCZNIE – Z PERSPEKTYWY KUPUJĄCEGO, JAK RÓWNIEŻ Z PERSPEKTYWY DEWELOPERA. TO KOMPREHENSYJNE ZROZUMIENIE UMOŻLIWIA NAM TWORZENIE NIERUCHOMOŚCI NIE TYLKO PIĘKNIEJSZYCH, ALE RÓWNIEŻ BARDZIEJ SUKCESYWNYCH: SZYBSZYCH NA RYNKU, LEPIEJ SPRZEDAWANYCH, Z WYŻSZĄ POSTRZEGANĄ WARTOŚCIĄ.",
+      "beliefTitle": "WIERZYMY, ŻE:",
+      "beliefs": [
+        "DOBRY DESIGN NIE MUSI BYĆ LUKSUSEM, ALE ŚWIADOMĄ DECYZJĄ",
+        "INDYWIDUALNOŚĆ PROJEKTU MOŻE BYĆ DECYDUJĄCYM CZYNNIKIEM DLA JEGO SUKCESU RYNKOWEGO",
+        "PRAWDZIWA JAKOŚĆ POWSTAJE, GDY ARCHITEKTURA, EKONOMIA I DOŚWIADCZENIE UŻYTKOWNIKA SĄ KONSEKWENTNIE MYŚLONE RAZEM"
+      ],
+      "contribution": "NASZĄ PRACĄ PRZYCZYNIAMY SIĘ DO TRWAŁEGO POPRAWIANIA OFERTY MIESZKANIOWEJ NA RYNKU – Z LEPsZYMI RZUTAMI, MĄDRZEJSZYMI KONCEPCJAMI I DESIGNEM, KTÓRY INSPIRUJE BEZ PRZYTŁACZANIA.",
+      "goal": "NASZYM CELEM NIE JEST TYLKO PROJEKTOWANIE PROJEKTÓW, ALE TWORZENIE MOŻLIWOŚCI: DLA LEPsZYCH PRZESTRZENI MIESZKANIOWYCH, DLA BARDZIEJ SUKCESYWNYCH ROZWOJÓW I DLA RYNKU NIERUCHOMOŚCI, KTÓRY STAWIA LUDZI I ICH POTRZEBY Z POWROTEM W CENTRUM."
+    },
+    "rightSection": {
+      "mission": "NASZA MISJA JEST JASNA:",
+      "missionDescription": "TWORZYMY DODATKOWĄ WARTOŚĆ. DLA DEWELOPERÓW, DLA KLIENTÓW KOŃCOWYCH – I DLA RYNKU JAKO CAŁOŚCI.",
+      "conviction": "TYM, CO NAMI KIERUJE, JEST PRZEKONANIE, ŻE WYBITNA ARCHITEKTURA I DESIGN NIE MUSZĄ BYĆ DROGIE, ABY BYĆ SKUTECZNE. CHODZI O ROZWÓJ ",
+      "convictionBold": "INTELIGENTNYCH ROZWIĄZAŃ ",
+      "convictionDescription": "KTÓRE SĄ EKONOMICZNIE OPŁACALNE I OFERUJĄ LUDZIOM PRAWDZIWĄ DODATKOWĄ WARTOŚĆ. KAŻDY PROJEKT ZASŁUGUJE NA WŁASNY ",
+      "convictionBold2": "PODPIS ",
+      "convictionDescription2": "– NIE DO POMYŁENIA, CELOWY I PRZEMYŚLANY DO SZCZEGÓŁU.",
+      "knowhowTitle": "NASZA WIEDZA JEST UNIKALNA:",
+      "knowhowIntro": "DZIĘKI NASZEMU DOŚWIADCZENIU W ROZWOJU, PLANOWANIU I MARKETINGU ŁĄCZYMY GŁĘBOKIE ZROZUMIENIE:",
+      "knowhowPoints": [
+        "POTRZEB KLIENTÓW KOŃCOWYCH,",
+        "PERSPEKTYWY EKONOMICZNEJ DEWELOPERÓW,",
+        "WYMAGAŃ TECHNICZNYCH I KONSTRUKCYJNYCH REALIZACJI BUDOWY."
+      ]
+    }
+  },
   "corporate": {
+    "index": {
+      "upgradeFloorplan": {
+        "label": "UPGRADE",
+        "title": "Rzut",
+        "subtitle": "Optymalizacja rzutów dla sukcesu rynkowego",
+        "intro": "Dzięki naszemu kompleksowemu doświadczeniu w rozwoju nieruchomości oraz w obszarze pre- i after-sales, wnosiemy unikalną perspektywę do procesu planowania. W przeciwieństwie do klasycznych biur architektonicznych, mamy bezpośredni kontakt z klientami końcowymi i dzięki temu rozwinęliśmy głębokie zrozumienie wymagań rynkowych i grup docelowych.",
+        "serviceIntro": "Dzięki naszemu serwisowi ",
+        "serviceIntroBold": "Upgrade Floorplan",
+        "serviceIntroEnd": " wspieramy deweloperów w strategicznej optymalizacji ich projektów:",
+        "benefits": [
+          "Efektywne wykorzystanie niewykrytych metrów kwadratowych",
+          "Redukcja niepotrzebnych kosztów budowy",
+          "Dostosowanie rzutów do rzeczywistych potrzeb ",
+          "grup docelowych",
+          ".",
+          "Zwiększenie atrakcyjności rynkowej i wartości jednostek"
+        ],
+        "conclusion": "Łącząc ekspertyzę architektoniczną z prawdziwą wiedzą rynkową, tworzymy rzuty, które doskonale odpowiadają dzisiejszym potrzebom mieszkaniowym – przemyślane, efektywne i zorientowane na rynek."
+      },
+      "conceptDesign": {
+        "label": "KONCEPCJA",
+        "title": "Design",
+        "subtitle": "Koncepcje z charakterem i przewagą rynkową",
+        "intro": "Nasz serwis ",
+        "introBold": "Design",
+        "introEnd": " jest skierowany do deweloperów w wczesnej fazie projektu lub z istniejącymi, już zatwierdzonymi projektami. Rozwijamy ",
+        "introBold2": "kompletny koncept projektowy – włączając materiały, produkty, kolory i tekstury",
+        "introEnd2": " – z głębokim zrozumieniem struktur kosztowych i ",
+        "introBold3": "grup docelowych",
+        "introEnd3": ".",
+        "philosophy": "Nasze przekonanie: ",
+        "philosophyBold": "Wspaniały design nie musi być drogi, ale przemyślany.",
+        "serviceIntro": "Z ",
+        "serviceIntroBold": "Design",
+        "serviceIntroEnd": " oferujemy:",
+        "conclusion": "Na życzenie towarzyszymy projektowi aż do fazy budowy, aby zapewnić konsekwentną realizację jakości projektowej."
+      },
+      "marketingStrategy": {
+        "label": "STRATEGIA",
+        "title": "Marketing",
+        "subtitle": "Opowiadaj architekturę, nie tylko sprzedawaj",
+        "intro": "Architektura to więcej niż funkcja – tworzy ",
+        "introBold": "tożsamość",
+        "introEnd": " i ",
+        "introBold2": "emocje",
+        "introEnd2": ". Aby zainteresowani wybrali świadomie Twój projekt, a nie po prostu jakieś mieszkanie, potrzeba narracji, która porusza i przekonuje.",
+        "description": "Nasza ",
+        "descriptionBold": "Strategia Marketingowa",
+        "descriptionEnd": " łączy architekturę, design i komunikację w jasną, potężną linię. Rozwijamy indywidualne ",
+        "descriptionBold2": "Tożsamości Korporacyjne (CI)",
+        "descriptionEnd2": ", konceptualizujemy strony internetowe, kuratorujemy atmosferyczne wizualizacje i projektujemy wysokiej jakości drukowane foldery – wszystko z głębokim zrozumieniem idei architektonicznej i wyczuciem ",
+        "descriptionBold3": "grup docelowych",
+        "descriptionEnd3": ", które chcemy dotrzeć. To właśnie odróżnia nas od tradycyjnych agencji marketingowych: Jesteśmy architektami i mówimy o tym, co kochamy najbardziej – architekturze.",
+        "conclusion": "Dla Ciebie oznacza to: Twoje projekty stają się nie tylko widoczne, ale namacalne – autentycznie prezentowane, spójnie komunikowane i silniej pozycjonowane na rynku. Poprzez jasną strategię marketingową zabezpieczasz sobie decydującą przewagę konkurencyjną i trwale optymalizujesz sukces marketingowy."
+      },
+      "references": {
+        "label": "REFERENCES",
+        "title": "korporacyjny",
+        "subtitle": "zrealizowane projekty"
+      },
+      "services": {
+        "service1": {
+          "text": "KOMPLETNY, ZORIENTOWANY NA RYNEK KONCEPT PROJEKTOWY"
+        },
+        "service2": {
+          "text": "WYBÓR MATERIAŁÓW I PRODUKTÓW Z UWZGLĘDNIENIEM KOSZTÓW"
+        },
+        "service3": {
+          "text": "UNIKALNOŚĆ I CHARAKTER DLA SILNIEJSZEJ POZYCJI RYNKOWEJ"
+        },
+        "service4": {
+          "text": "PREZENTACJA DESIGNU DLA JASNEJ KOMUNIKACJI PROJEKTU Z INWESTORAMI"
+        },
+        "service5": {
+          "text": "SPECYFIKACJE TECHNICZNE DLA PŁYNEGO PROCESU PRZETARGOWEGO"
+        },
+        "service6": {
+          "text": "NIEZAWODNA PODSTAWA DO OPRACOWANIA PRZEZ ARCHITEKTÓW"
+        }
+      }
+    },
     "upgradeFloorplan": {
       "title": "Upgrade Floorplan – Optymalizacja rzutów dla sukcesu rynkowego",
       "intro": "Dzięki naszemu kompleksowemu doświadczeniu w rozwoju nieruchomości oraz w obszarze pre- i after-sales, wnosiemy unikalną perspektywę do procesu planowania. W przeciwieństwie do klasycznych biur architektonicznych, mamy bezpośredni kontakt z klientami końcowymi i dzięki temu rozwinęliśmy głębokie zrozumienie wymagań rynkowych i grup docelowych.",
@@ -58,6 +172,199 @@
       "intro": "Architektura to więcej niż funkcja – tworzy tożsamość i emocje. Aby zainteresowani wybrali świadomie Twój projekt, a nie po prostu jakieś mieszkanie, potrzeba narracji, która porusza i przekonuje.",
       "description": "Nasza Strategia Marketingowa łączy architekturę, design i komunikację w jasną, potężną linię. Rozwijamy indywidualne Tożsamości Korporacyjne (CI), konceptualizujemy strony internetowe, kuratorujemy atmosferyczne wizualizacje i projektujemy wysokiej jakości drukowane foldery – wszystko z głębokim zrozumieniem idei architektonicznej i wyczuciem grup docelowych, które chcemy dotrzeć. To właśnie odróżnia nas od tradycyjnych agencji marketingowych: Jesteśmy architektami i mówimy o tym, co kochamy najbardziej – architekturze.",
       "conclusion": "Dla Ciebie oznacza to: Twoje projekty stają się nie tylko widoczne, ale namacalne – autentycznie prezentowane, spójnie komunikowane i silniej pozycjonowane na rynku. Poprzez jasną strategię marketingową zabezpieczasz sobie decydującą przewagę konkurencyjną i trwale optymalizujesz sukces marketingowy."
+    },
+    "howWeWork": {
+      "title": "JAK",
+      "title-second": "PRACUJEMY",
+      "label": "Strukturalne doradztwo dla sukcesu Twojego projektu",
+      "intro": "Nasze podejście opiera się na jasnym, trójstopniowym modelu doradczym. Każda faza buduje na poprzedniej i tworzy stabilną podstawę dla silnego, rynkowego projektu. Naszą preferowaną ścieżką jest pełne towarzyszenie przez wszystkie trzy kroki – jednak w zależności od potrzeb możesz również zamówić nasze usługi indywidualnie lub w kombinacji.",
+      "stepsIntro": "Nasze trzy kroki:",
+      "steps": {
+        "upgradeFloorplan": {
+          "name": "1. Upgrade Floorplan",
+          "description": "Optymalizacja rzutów dla lepszego wykorzystania przestrzeni, ukierunkowanej redukcji kosztów i jasnego dostosowania do potrzeb grup docelowych."
+        },
+        "design": {
+          "name": "2. Design",
+          "description": "Rozwój kompletnego konceptu projektowego: wybór materiałów, kolory, produkty i powierzchnie – dostosowane do budżetu, grupy docelowej i sukcesu rynkowego."
+        },
+        "marketingStrategy": {
+          "name": "3. Strategia Marketingowa",
+          "description": "Budowanie spójnej tożsamości projektu (CI) włączając wizualizacje, materiały sprzedażowe, foldery i koncepcje stron internetowych – aby pozycjonować Twoją architekturę silnie również w komunikacji."
+        }
+      },
+      "conclusion": "Nasze roszczenie: Efektywność, jakość i jasny podpis – od pierwszego pomysłu do finalnej prezentacji.",
+      "timing": {
+        "title": "Właściwy czas dla naszej współpracy",
+        "intro": "Idealnie towarzyszymy Twojemu projektowi od początku. Już w fazie podejmowania decyzji – przy porównywaniu różnych działek lub możliwych nieruchomości – możemy dostarczyć wartościowych impulsów. Jednak wielu naszych klientów dołącza później: z istniejącymi projektami, planami zgłoszeniowymi i pozwoleniami na budowę. W tych przypadkach pracujemy na podstawie istniejącego projektu i rozwijamy optymalizacje, które nie wpływają na zatwierdzenie."
+      },
+      "accompaniment": {
+        "title": "Towarzyszenie aż do ukończenia",
+        "description": "Jeśli życzysz sobie, towarzyszymy Twojemu projektowi przez cały proces rozwoju. Stajemy przy zespole rozwojowym jako partner doradczy – od pierwszego pomysłu do finalnej realizacji budowy – i pomagamy zapewnić, że oryginalna wizja jest konsekwentnie i świadomie jakościowo realizowana."
+      },
+      "process": {
+        "title": "Proces i ramy czasowe",
+        "description": "Każdy z naszych kroków doradczych jest jasno ustrukturalizowany i efektywnie zorganizowany. Zazwyczaj faza – czy to Upgrade Floorplan, Design czy Strategia Marketingowa – trwa między 4 a 8 tygodni, w zależności od zakresu projektu i procesów podejmowania decyzji. Naszym celem jest dostarczenie wysokiej jakości wyników w realistycznych ramach czasowych, aby Twój projekt mógł postępować w sposób bezpieczny dla planowania i zorientowany na rynek."
+      },
+      "network": {
+        "title": "Sieć i współpraca",
+        "description": "Dla realizacji naszych konceptów czerpiemy z doświadczonej sieci projektantów wizualizacji 3D, fotografów, projektantów stron internetowych i drukarni. Jednocześnie jesteśmy otwarci na współpracę z nowymi partnerami i przejmujemy koordynację wszystkich zaangażowanych stron na życzenie, aby zapewnić spójny ogólny wynik."
+      }
+    }
+  },
+  "contact": {
+    "title": {
+      "first": "Con",
+      "second": "tact"
+    },
+    "subtitle": "SKONTAKTUJMY SIĘ! POWIEDZ NAM TROCHĘ INFORMACJI O SWOIM PROJEKCIE!",
+    "sections": {
+      "project": {
+        "title": "TWÓJ PROJEKT TO NASZA MISJA"
+      },
+      "help": {
+        "title": "JAK MOŻEMY CI POMÓC? (lub proszę wybierz poniżej) *"
+      },
+      "services": {
+        "title": "JAK MOŻEMY CI POMÓC? (wybierz wszystkie pasujące) *"
+      },
+      "source": {
+        "title": "JAK NAS ZNALAZŁEŚ?"
+      }
+    },
+    "fields": {
+      "name": "Imię *",
+      "company": "Firma",
+      "website": "Strona internetowa",
+      "email": "E-Mail *",
+      "phone": "Telefon *",
+      "projectTitle": "Tytuł projektu",
+      "location": "Lokalizacja projektu *",
+      "languageNote": "Uwaga językowa - Mówimy płynnie po niemiecku, angielsku i polsku. Skontaktuj się z nami w swoim preferowanym języku!",
+      "budget": "Szacowany budżet - Wybierz swój budżet",
+      "timelineStart": "Harmonogram (początek) - dd.mm.rrrr",
+      "timelineEnd": "Harmonogram (koniec) - dd.mm.rrrr",
+      "source": "Jak nas znalazłeś? - Wybierz opcję"
+    },
+    "options": {
+      "budget": {
+        "under50k": "Poniżej €50.000",
+        "50k100k": "€50.000 - €100.000",
+        "100k250k": "€100.000 - €250.000",
+        "250k500k": "€250.000 - €500.000",
+        "500k1m": "€500.000 - €1.000.000",
+        "over1m": "Powyżej €1.000.000"
+      },
+      "source": {
+        "google": "Wyszukiwanie Google",
+        "socialMedia": "Media społecznościowe",
+        "referral": "Polecenie",
+        "advertisement": "Reklama",
+        "other": "Inne"
+      }
+    },
+    "services": {
+      "architecture": "Architektura",
+      "interiorDesign": "Wzornictwo wnętrz",
+      "oneRoom": "Transformacja jednego pokoju",
+      "staging": "Staging",
+      "outdoor": "Przestrzeń zewnętrzna",
+      "consultation": "Konsultacja"
+    },
+    "submit": "WYŚLIJ"
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "CZĘSTO ZADAWANE PYTANIA",
+    "contactUs": "Skontaktuj się z nami",
+    "questions": {
+      "timing": {
+        "question": "W której fazie projektu jest najlepszy czas na współpracę z Tobą?",
+        "answer": "Idealnie towarzyszymy Twojemu projektowi od początku – już w fazie wyboru lub planowania. Ale nawet z istniejącymi projektami z pozwoleniami na budowę możemy rozwinąć optymalizacje, które nie wpływają na zatwierdzenie."
+      },
+      "partialServices": {
+        "question": "Czy możemy również zamówić Cię tylko dla części Twojego spektrum usług?",
+        "answer": "Tak. Nasz 3-krokowy model jest elastyczny: Możesz zamówić pojedyncze moduły – Upgrade Floorplan, Design lub Strategia Marketingowa – niezależnie od siebie lub używać ich jako kompletny pakiet."
+      },
+      "upgradeFloorplan": {
+        "question": "Co dokładnie obejmuje serwis \"Upgrade Floorplan\"?",
+        "answer": "Analizujemy istniejące rzuty, optymalizujemy wykorzystanie przestrzeni, redukujemy niepotrzebne koszty budowy i precyzyjnie dostosowujemy planowanie do potrzeb grupy docelowej – zawsze z uwzględnieniem opłacalności ekonomicznej."
+      },
+      "designConcept": {
+        "question": "Co wyróżnia Twój koncept projektowy w porównaniu do klasycznych biur architektonicznych?",
+        "answer": "Nasz design powstaje z głębokiego zrozumienia grupy docelowej, wymagań rynkowych i struktury kosztów. Tworzymy unikalne koncepcje z charakterem, które są zarówno emocjonalnie atrakcyjne, jak i ekonomicznie opłacalne."
+      },
+      "duration": {
+        "question": "Jak długo trwa typowy projekt doradczy?",
+        "answer": "Każdy pojedynczy krok – Upgrade Floorplan, Design lub Strategia Marketingowa – zazwyczaj trwa 4 do 8 tygodni, w zależności od zakresu i procesów podejmowania decyzji po stronie klienta."
+      },
+      "externalTeams": {
+        "question": "Czy istniejące zewnętrzne zespoły (np. wizualizatorzy, fotograficy) mogą być zintegrowane?",
+        "answer": "Tak, oczywiście. Pracujemy z ugruntowaną siecią, ale jesteśmy otwarci na nowe współprace i przejmujemy koordynację wszystkich zaangażowanych zespołów na życzenie."
+      },
+      "marketingStrategy": {
+        "question": "Co odróżnia Twoją strategię marketingową od klasycznych agencji reklamowych?",
+        "answer": "Jesteśmy architektami, którzy opowiadają o architekturze. Oznacza to: Nasze podejścia storytellingowe opierają się na prawdziwym zrozumieniu architektonicznym i konsekwentnej, autentycznej prezentacji każdego projektu."
+      },
+      "constructionSupport": {
+        "question": "Czy wspierasz również podczas fazy budowy?",
+        "answer": "Tak. Na życzenie towarzyszymy Twojemu projektowi aż do ukończenia, aby zapewnić, że idea projektowa jest konsekwentnie realizowana i nie rozcieńczana w procesie budowy."
+      },
+      "collaboration": {
+        "question": "Jak w praktyce wygląda współpraca?",
+        "answer": "Po wstępnej konsultacji tworzymy indywidualną ofertę i definiujemy wspólnie z Tobą cele projektu i kamienie milowe. Przejrzysta komunikacja i jasne procesy koordynacji zapewniają, że Twój projekt postępuje efektywnie."
+      },
+      "investment": {
+        "question": "Dlaczego inwestycja w Twoje usługi jest ekonomicznie opłacalna dla deweloperów?",
+        "answer": "Dzięki ukierunkowanemu planowaniu i zorientowanemu na rynek designowi zwiększamy atrakcyjność Twojego projektu, redukujemy koszty budowy i przyspieszamy marketing – dla szybszych sprzedaży i lepszych przychodów."
+      }
+    }
+  },
+  "faqPrivate": {
+    "title": "FAQ",
+    "subtitle": "Prywatni Klienci Często Zadawane Pytania",
+    "contactUs": "Skontaktuj się z nami",
+    "questions": {
+      "projectProcess": {
+        "question": "Jak wygląda projekt z Twoim biurem?",
+        "answer": "Zaczynamy od nieobowiązkowej wstępnej konsultacji. Następnie otrzymujesz od nas dopasowaną ofertę. Po zaakceptowaniu oferty rozpoczyna się współpraca – od projektu do realizacji towarzyszymy Ci krok po kroku."
+      },
+      "projectSize": {
+        "question": "Czy mój projekt musi mieć określoną wielkość?",
+        "answer": "Nie. Podejmujemy się zarówno małych renowacji (jak łazienki czy kuchnie) jak i dużych remontów, rozbudów czy nowych budów."
+      },
+      "costs": {
+        "question": "Ile kosztuje współpraca z Tobą?",
+        "answer": "Projekty mogą być rozliczane ryczałtowo lub godzinowo. Nasza stawka godzinowa dla klientów prywatnych wynosi 180 € – umożliwia to jakość, staranność i indywidualną opiekę, za którą się opowiadamy."
+      },
+      "modularServices": {
+        "question": "Czy mogę zamówić pojedyncze usługi, np. tylko koncept lub tylko nadzór budowlany?",
+        "answer": "Tak. Nasze usługi są modułowe – możesz zamówić dokładnie to, czego potrzebujesz: od konceptu przez szczegółowe planowanie po wsparcie realizacji."
+      },
+      "existingPlans": {
+        "question": "Czy pracujesz również z istniejącymi planami lub pozwoleniami na budowę?",
+        "answer": "Tak. Jeśli masz już plany lub pozwolenia, możemy na nich budować i kontynuować stamtąd."
+      },
+      "materialSelection": {
+        "question": "Czy możesz doradzić nam w wyborze materiałów, mebli i kolorów?",
+        "answer": "Tak. Oferujemy pełne koncepcje projektowe włącznie z realizacją, umeblowaniem i home staging – lub krótkie konsultacje jeśli potrzebujesz tylko porady. Skontaktuj się z nami, aby dowiedzieć się, co najlepiej pasuje do Twoich potrzeb."
+      },
+      "difference": {
+        "question": "Co odróżnia Twoje biuro od innych biur architektonicznych?",
+        "answer": "Podejmujemy holistyczne podejście: architektura, wnętrza i przestrzenie zewnętrzne z jednego źródła. Nasze rozwiązania są dopasowane, trwałe i stworzone, aby wzbogacać codzienne życie."
+      },
+      "projectDuration": {
+        "question": "Jak długo trwa projekt?",
+        "answer": "Od weekendowych transformacji pokoi po projekty trwające do 18 miesięcy – wszystko jest możliwe. Dostarczamy realistyczny harmonogram na początku każdego projektu."
+      },
+      "location": {
+        "question": "Czy pracujesz tylko w Wiedniu czy również poza nim?",
+        "answer": "Mamy siedzibę w Wiedniu i skupiamy się na okolicznym obszarze, ale podejmujemy się również projektów w innych regionach po uzgodnieniu."
+      },
+      "onSitePresence": {
+        "question": "Czy muszę być na miejscu podczas projektu?",
+        "answer": "Nie. Chętnie przejmujemy koordynację wszystkiego dla Ciebie i będziemy Cię informować planami, wizualizacjami i regularnymi raportami postępów."
+      }
     }
   },
   "footer": {

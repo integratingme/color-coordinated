@@ -89,7 +89,7 @@ const footerClass = computed(() => `footer-${props.background}`)
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  padding: 0 2vw;
+  padding: 0 4rem;
   flex-wrap: wrap;
   gap: 1rem;
 }
@@ -117,12 +117,12 @@ const footerClass = computed(() => `footer-${props.background}`)
 
 /* Corporate footer links positioning */
 .footer-corporate .footer-links-container {
-  margin-left: 200px; /* Pomjeri udesno */
+  margin-left: 150px; /* Pomjeri udesno */
 }
 
 /* Private footer links positioning */
 .footer-private .footer-links-container {
-  margin-left: 80px;
+  margin-left: 50px;
 }
 
 .footer-link {

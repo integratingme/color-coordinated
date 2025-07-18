@@ -12,13 +12,13 @@
       </button>
     </div>
     <!-- Center: Logo/Title -->
-    <div class="header-title">
+    <NuxtLink :to="`/${section}/`" class="header-title">
       <div>
         <span class="color-bold">COLOR</span>
         <span class="coordinated">COORDINATED</span>
       </div>
       <div class="byline">BY ANIA KOROTARZ</div>
-    </div>
+    </NuxtLink>
     <!-- Right: Hamburger menu -->
     <div class="menu-container">
       <button class="hamburger" @click="menuOpen = !menuOpen" aria-label="Open menu">
@@ -92,8 +92,8 @@ onUnmounted(() => {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 2vw;
-  height: 90px;
+  padding: 0 4rem;
+  height: 150px;
   position: relative;
   z-index: 100;
   border: none !important;
@@ -161,7 +161,7 @@ onUnmounted(() => {
   border: none;
   color: #222;
   font-family: var(--font-family-cera);
-  font-size: 0.95rem;
+  font-size: 1.5rem;
   font-weight: 400;
   cursor: pointer;
   opacity: 0.7;
@@ -178,12 +178,19 @@ onUnmounted(() => {
   flex: 1;
   text-align: center;
   font-family: var(--font-family-cera);
-  font-size: 2.1rem;
+  font-size: 6rem;
   letter-spacing: 0.04em;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
+  color: inherit;
+  transition: opacity 0.2s;
+}
+
+.header-title:hover {
+  opacity: 0.8;
 }
 .header-title > div:first-child {
   position: relative;
@@ -199,12 +206,13 @@ onUnmounted(() => {
 }
 .byline {
   font-family: var(--font-family-cera);
-  font-size: 0.6rem;
+  font-size: 1rem;
   font-weight: 300;
-  margin-top: -0.2em;
+  margin-top: -0.8em;
   letter-spacing: 0.12em;
   position: relative;
-  top: -0.3em;
+  top: -0.9em;
+  left: -1em;
 }
 .menu-container {
   position: relative;
@@ -216,8 +224,8 @@ onUnmounted(() => {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 32px;
-  height: 32px;
+  width: 50px;
+  height: 50px;
   background: none;
   border: none;
   cursor: pointer;
@@ -226,9 +234,9 @@ onUnmounted(() => {
 }
 .bar {
   width: 100%;
-  height: 3px;
+  height: 5px;
   background: #222;
-  margin: 3px 0;
+  margin: 5px 0;
   border-radius: 2px;
   transition: all 0.2s;
 }
