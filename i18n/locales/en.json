@@ -172,6 +172,200 @@
       "intro": "Architecture is more than function – it creates identity and emotion. For prospects to choose your project consciously rather than just any apartment, it takes a narrative that touches and convinces.",
       "description": "Our Marketing Strategy connects architecture, design, and communication into a clear, powerful line. We develop individual Corporate Identities (CI), conceptualize websites, curate atmospheric visualizations, and design high-quality printed folders – all with a deep understanding of the architectural idea and a keen sense for the target groups we want to reach. This is exactly what distinguishes us from traditional marketing agencies: We are architects and speak about what we love most – architecture.",
       "conclusion": "For you, this means: Your projects become not only visible but tangible – authentically presented, coherently communicated, and stronger positioned in the market. Through a clear marketing strategy, you secure a decisive competitive advantage and sustainably optimize marketing success."
+    },
+    "howWeWork": {
+      "title": "HOW",
+      "title-second": "WE",
+      "title-third": "WORK",
+      "label": "Structured Consulting for Your Project Success",
+      "intro": "Our approach is based on a clear, three-stage consulting model. Each phase builds on the previous one and creates a stable foundation for a strong, marketable project. Our preferred path is complete accompaniment through all three steps – however, depending on your needs, you can also commission our services individually or in combination.",
+      "stepsIntro": "Our three steps:",
+      "steps": {
+        "upgradeFloorplan": {
+          "name": "1. Upgrade Floorplan",
+          "description": "Optimization of floor plans for better space utilization, targeted cost reduction, and clear alignment with target group needs."
+        },
+        "design": {
+          "name": "2. Design",
+          "description": "Development of a complete design concept: material selection, colors, products, and surfaces – tailored to budget, target group, and market success."
+        },
+        "marketingStrategy": {
+          "name": "3. Marketing Strategy",
+          "description": "Building a coherent project identity (CI) including visualizations, sales materials, folders, and website concepts – to position your architecture strongly in communication as well."
+        }
+      },
+      "conclusion": "Our claim: Efficiency, quality, and a clear signature – from the first idea to the final presentation.",
+      "timing": {
+        "title": "The Right Time for Our Collaboration",
+        "intro": "Ideally, we accompany your project from the beginning. Already in the decision-making phase – when comparing different plots or possible properties – we can provide valuable impulses. However, many of our clients join later: with existing projects, submission plans, and building permits. In these cases, we work based on the existing project and develop optimizations that do not affect the approval."
+      },
+      "accompaniment": {
+        "title": "Accompaniment Until Completion",
+        "description": "If desired, we accompany your project throughout the entire development process. We stand by the development team as a consulting partner – from the first idea to the final construction execution – and help ensure that the original vision is consistently and quality-consciously implemented."
+      },
+      "process": {
+        "title": "Process and Timeline",
+        "description": "Each of our consulting steps is clearly structured and efficiently organized. Typically, a phase – whether Upgrade Floorplan, Design, or Marketing Strategy – takes between 4 and 8 weeks, depending on project scope and decision-making processes. Our goal is to deliver high-quality results within a realistic timeframe so that your project can progress in a planning-safe and market-oriented manner."
+      },
+      "network": {
+        "title": "Network and Collaboration",
+        "description": "For the implementation of our concepts, we draw on an experienced network of 3D visualization designers, photographers, web designers, and printing companies. At the same time, we are open to collaboration with new partners and take over the coordination of all parties involved on request to ensure a coherent overall result."
+      }
+    }
+  },
+  "contact": {
+    "title": {
+      "first": "Con",
+      "second": "tact"
+    },
+    "subtitle": "LET'S GET IN TOUCH! TELL US SOME INFORMATION ABOUT YOUR PROJECT!",
+    "sections": {
+      "project": {
+        "title": "YOUR PROJECT IS OUR MISSION"
+      },
+      "help": {
+        "title": "HOW MAY WE HELP YOU? (or please select below) *"
+      },
+      "services": {
+        "title": "HOW CAN WE HELP YOU? (select all that apply) *"
+      },
+      "source": {
+        "title": "HOW DID YOU FIND US?"
+      }
+    },
+    "fields": {
+      "name": "Name *",
+      "company": "Company",
+      "website": "Website",
+      "email": "E-Mail *",
+      "phone": "Phone *",
+      "projectTitle": "Project Title",
+      "location": "Location of Project *",
+      "languageNote": "Language Note - We're fluent in German, English and Polish. Feel free to reach out in your preferred language!",
+      "budget": "Estimated Budget - Choose your Budget",
+      "timelineStart": "Timeline (start) - tt.mm.jjjj",
+      "timelineEnd": "Timeline (end) - tt.mm.jjjj",
+      "source": "How did you find us? - Select an option"
+    },
+    "options": {
+      "budget": {
+        "under50k": "Under €50,000",
+        "50k100k": "€50,000 - €100,000",
+        "100k250k": "€100,000 - €250,000",
+        "250k500k": "€250,000 - €500,000",
+        "500k1m": "€500,000 - €1,000,000",
+        "over1m": "Over €1,000,000"
+      },
+      "source": {
+        "google": "Google Search",
+        "socialMedia": "Social Media",
+        "referral": "Referral",
+        "advertisement": "Advertisement",
+        "other": "Other"
+      }
+    },
+    "services": {
+      "architecture": "Architecture",
+      "interiorDesign": "Interior Design",
+      "oneRoom": "One Room Transformation",
+      "staging": "Staging",
+      "outdoor": "Outdoor",
+      "consultation": "Consultation"
+    },
+    "submit": "SEND"
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "FREQUENTLY ASKED QUESTIONS",
+    "contactUs": "Contact us",
+    "questions": {
+      "timing": {
+        "question": "In which project phase is the best time to collaborate with you?",
+        "answer": "Ideally, we accompany your project from the beginning – already in the selection or planning phase. But even with existing projects with building permits, we can develop optimizations that do not affect the approval."
+      },
+      "partialServices": {
+        "question": "Can we also commission you for only part of your service spectrum?",
+        "answer": "Yes. Our 3-step model is flexible: You can book individual modules – Upgrade Floorplan, Design or Marketing Strategy – independently of each other or use them as a complete package."
+      },
+      "upgradeFloorplan": {
+        "question": "What exactly does the \"Upgrade Floorplan\" service include?",
+        "answer": "We analyze existing floor plans, optimize space utilization, reduce unnecessary construction costs and precisely adapt the planning to the needs of the target group – always taking into account economic viability."
+      },
+      "designConcept": {
+        "question": "What distinguishes your design concept compared to classical architecture firms?",
+        "answer": "Our design emerges from a deep understanding of the target group, market requirements and cost structure. We create unique concepts with character that are both emotionally appealing and economically viable."
+      },
+      "duration": {
+        "question": "How long does a typical consulting project take?",
+        "answer": "Each individual step – Upgrade Floorplan, Design or Marketing Strategy – typically takes 4 to 8 weeks, depending on scope and decision-making processes on the client side."
+      },
+      "externalTeams": {
+        "question": "Can existing external teams (e.g. visualizers, photographers) be integrated?",
+        "answer": "Yes, of course. We work with an established network, but are open to new collaborations and take over the coordination of all involved teams on request."
+      },
+      "marketingStrategy": {
+        "question": "What distinguishes your marketing strategy from classical advertising agencies?",
+        "answer": "We are architects who tell stories about architecture. This means: Our storytelling approaches are based on genuine architectural understanding and a consistent, authentic presentation of each project."
+      },
+      "constructionSupport": {
+        "question": "Do you also support during the construction phase?",
+        "answer": "Yes. On request, we accompany your project until completion to ensure that the design idea is consistently implemented and not diluted in the construction process."
+      },
+      "collaboration": {
+        "question": "How does the collaboration work in practice?",
+        "answer": "After an initial consultation, we create an individual offer and define project goals and milestones together with you. Transparent communication and clear coordination processes ensure that your project progresses efficiently."
+      },
+      "investment": {
+        "question": "Why is the investment in your services economically worthwhile for developers?",
+        "answer": "With targeted planning and market-oriented design, we increase the attractiveness of your project, reduce construction costs and accelerate marketing – for faster sales and better returns."
+      }
+    }
+  },
+  "faqPrivate": {
+    "title": "FAQ",
+    "subtitle": "Private Clients Frequently Asked Questions",
+    "contactUs": "Contact us",
+    "questions": {
+      "projectProcess": {
+        "question": "How does a project with your office work?",
+        "answer": "We begin with a non-binding initial consultation. After that, you'll receive a tailored offer. Once accepted, we start the collaboration – guiding you from design to execution step by step."
+      },
+      "projectSize": {
+        "question": "Does my project need to be a certain size?",
+        "answer": "No. We take on both small-scale renovations (like bathrooms or kitchens) and large-scale refurbishments, extensions, or new builds."
+      },
+      "costs": {
+        "question": "What does working with you cost?",
+        "answer": "Projects can be charged either as a fixed price or hourly. Our hourly rate for private clients is €180, which allows us to deliver the level of care and service we stand for."
+      },
+      "modularServices": {
+        "question": "Can I book individual services, e.g. just a concept or just construction supervision?",
+        "answer": "Yes. Our services are modular – you can book exactly what you need: from a concept to detailed planning or execution support."
+      },
+      "existingPlans": {
+        "question": "Do you also work with existing plans or building permits?",
+        "answer": "Yes. If you already have plans or permits, we can build upon them and continue from there."
+      },
+      "materialSelection": {
+        "question": "Can you advise us on the selection of materials, furniture, and colors?",
+        "answer": "Yes. We offer full design concepts including execution, furnishing, and home staging – or short consultations if you just need advice. Contact us to learn what suits your needs best."
+      },
+      "difference": {
+        "question": "What distinguishes your office from other architecture firms?",
+        "answer": "We take a holistic approach: architecture, interiors, and outdoor spaces from one source. Our solutions are tailored, durable, and made to enrich daily life."
+      },
+      "projectDuration": {
+        "question": "How long does a project take?",
+        "answer": "From weekend room transformations to projects lasting up to 18 months – anything is possible. We provide a realistic timeline at the beginning of each project."
+      },
+      "location": {
+        "question": "Do you only work in Vienna or also elsewhere?",
+        "answer": "We are based in Vienna and focus on the surrounding area, but we also take on projects in other regions by arrangement."
+      },
+      "onSitePresence": {
+        "question": "Do I need to be on-site during the project?",
+        "answer": "No. We are happy to coordinate everything for you and will keep you updated with plans, visuals, and regular progress reports."
+      }
     }
   },
   "footer": {

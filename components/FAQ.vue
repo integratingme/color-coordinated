@@ -1,17 +1,94 @@
 <template>
-  <FAQ section="private" faqType="faqPrivate" />
+  <div class="faq-component">
+    <!-- Main Content -->
+    <div class="main-content">
+      <!-- FAQ Image -->
+      <div class="image-container">
+        <img src="~/assets/images/FAQ_image.webp" alt="FAQ" />
+      </div>
+      
+      <!-- FAQ Content -->
+      <div class="faq-content">
+        <!-- Header -->
+        <div class="section-header">
+          <h2 class="section-main-title">{{ $t(`${faqType}.title`) }}</h2>
+          <span class="section-subtitle">{{ $t(`${faqType}.subtitle`) }}</span>
+        </div>
+        
+        <!-- FAQ Items -->
+        <div class="faq-items">
+          <div class="faq-item" v-for="(question, key) in questions" :key="key">
+            <p class="question"><strong>{{ $t(`${faqType}.questions.${key}.question`) }}</strong></p>
+            <p class="answer">{{ $t(`${faqType}.questions.${key}.answer`) }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Contact Section -->
+    <div class="contact-section">
+      <div class="contact-icon">
+        <div class="icon-circle" :class="iconClass">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" stroke="white" stroke-width="2" fill="none"/>
+            <polyline points="22,6 12,13 2,6" stroke="white" stroke-width="2" fill="none"/>
+          </svg>
+        </div>
+      </div>
+      <h3>{{ $t(`${faqType}.contactUs`) }}</h3>
+    </div>
+  </div>
 </template>
 
 <script setup>
-import FAQ from '~/components/FAQ.vue'
-
-definePageMeta({
-  layout: 'private'
+const props = defineProps({
+  section: {
+    type: String,
+    default: 'corporate' // 'corporate' or 'private'
+  },
+  faqType: {
+    type: String,
+    default: 'faq' // 'faq' or 'faqPrivate'
+  }
 })
-</script> 
+
+const iconClass = computed(() => {
+  return `icon-circle--${props.section}`
+})
+
+const questions = computed(() => {
+  if (props.faqType === 'faqPrivate') {
+    return {
+      projectProcess: {},
+      projectSize: {},
+      costs: {},
+      modularServices: {},
+      existingPlans: {},
+      materialSelection: {},
+      difference: {},
+      projectDuration: {},
+      location: {},
+      onSitePresence: {}
+    }
+  } else {
+    return {
+      timing: {},
+      partialServices: {},
+      upgradeFloorplan: {},
+      designConcept: {},
+      duration: {},
+      externalTeams: {},
+      marketingStrategy: {},
+      constructionSupport: {},
+      collaboration: {},
+      investment: {}
+    }
+  }
+})
+</script>
 
 <style scoped>
-.private-faq-page {
+.faq-component {
   min-height: 100vh;
   font-family: var(--font-family-cera);
   color: #000000;
@@ -140,11 +217,18 @@ definePageMeta({
 .icon-circle {
   width: 48px;
   height: 48px;
-  background-color: var(--color-private-footer);
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.icon-circle--corporate {
+  background-color: var(--color-corporate-footer);
+}
+
+.icon-circle--private {
+  background-color: var(--color-private-footer);
 }
 
 .contact-section h3 {

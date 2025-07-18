@@ -1,10 +1,11 @@
 <template>
-  <div>Contact Us page</div>
+  <ContactForm section="corporate" />
 </template>
 
 <script setup>
+import ContactForm from '~/components/ContactForm.vue'
+
 definePageMeta({
   layout: 'corporate'
 })
-// Add your logic here
 </script> 

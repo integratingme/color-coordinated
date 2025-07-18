@@ -177,6 +177,200 @@
       "intro": "Architektur ist mehr als Funktion – sie schafft Identität und Emotion. Damit Interessenten sich nicht einfach für irgendein Apartment entscheiden, sondern bewusst für Ihr Projekt, braucht es eine Erzählung, die berührt und überzeugt.",
       "description": "Unsere Marketing Strategy verbindet Architektur, Design und Kommunikation zu einer klaren, kraftvollen Linie. Wir entwickeln individuelle Corporate Identities (CI), konzipieren Webseiten, kuratieren stimmungsvolle Visualisierungen und gestalten hochwertige gedruckte Folder – alles mit einem tiefen Verständnis für die architektonische Idee und einem ausgeprägten Gespür für die Zielgruppen, die wir erreichen wollen. Genau das unterscheidet uns von klassischen Marketingagenturen: Wir sind Architekten und sprechen über das, was wir am meisten lieben – Architektur.",
       "conclusion": "Für Sie bedeutet das: Ihre Projekte werden nicht nur sichtbar, sondern spürbar – authentisch präsentiert, stimmig kommuniziert und stärker im Markt positioniert. Durch eine klare Marketingstrategie sichern Sie sich einen entscheidenden Wettbewerbsvorteil und optimieren die Vermarktungserfolge nachhaltig."
+    },
+    "howWeWork": {
+      "title": "HOW",
+      "title-second": "WE",
+      "title-third": "WORK",
+      "label": "Strukturierte Beratung für Ihren Projekterfolg",
+      "intro": "Unser Ansatz basiert auf einem klaren, dreistufigen Beratungsmodell. Jede Phase baut aufeinander auf und schafft eine stabile Grundlage für ein starkes, marktfähiges Projekt. Unser bevorzugter Weg ist die vollständige Begleitung über alle drei Schritte – je nach Bedarf können Sie unsere Leistungen jedoch auch einzeln oder in Kombination beauftragen.",
+      "stepsIntro": "Unsere drei Schritte:",
+      "steps": {
+        "upgradeFloorplan": {
+          "name": "1. Upgrade Floorplan",
+          "description": "Optimierung der Grundrisse für bessere Flächennutzung, gezielte Kostensenkung und klare Ausrichtung auf die Bedürfnisse der Zielgruppe."
+        },
+        "design": {
+          "name": "2. Design",
+          "description": "Entwicklung eines vollständigen Gestaltungskonzepts: Materialwahl, Farben, Produkte und Oberflächen – abgestimmt auf Budget, Zielgruppe und Markterfolg."
+        },
+        "marketingStrategy": {
+          "name": "3. Marketing Strategy",
+          "description": "Aufbau einer kohärenten Projektidentität (CI) inklusive Visualisierungen, Verkaufsunterlagen, Foldern und Webseitenkonzepten – um Ihre Architektur auch kommunikativ stark zu positionieren."
+        }
+      },
+      "conclusion": "Unser Anspruch: Effizienz, Qualität und eine klare Handschrift – von der ersten Idee bis zur finalen Präsentation.",
+      "timing": {
+        "title": "Der richtige Zeitpunkt für unsere Zusammenarbeit",
+        "intro": "Idealerweise begleiten wir Ihr Projekt von Anfang an. Bereits in der Entscheidungsphase – beim Vergleich verschiedener Grundstücke oder möglicher Objekte – können wir wertvolle Impulse liefern. Viele unserer Kunden steigen jedoch später ein: mit bereits bestehenden Projekten, Einreichplänen und Baugenehmigungen. In diesen Fällen arbeiten wir auf Basis des bestehenden Projekts und entwickeln Optimierungen, die die Genehmigung nicht berühren."
+      },
+      "accompaniment": {
+        "title": "Begleitung bis zur Fertigstellung",
+        "description": "Wenn gewünscht, begleiten wir Ihr Projekt über den gesamten Entwicklungsprozess hinweg. Wir stehen dem Entwicklungsteam als beratender Partner zur Seite – von der ersten Idee bis zur finalen Bauausführung – und helfen dabei, die ursprüngliche Vision konsequent und qualitätsbewusst umzusetzen."
+      },
+      "process": {
+        "title": "Ablauf und Zeitrahmen",
+        "description": "Jeder unserer Beratungsschritte ist klar strukturiert und effizient organisiert. In der Regel dauert eine Phase – sei es Upgrade Floorplan, Design oder Marketing Strategy – zwischen 4 und 8 Wochen, abhängig von Projektumfang und Entscheidungsprozessen. Unser Ziel ist es, hochwertige Ergebnisse in einem realistischen Zeitrahmen zu liefern, damit Ihr Projekt planungssicher und marktgerecht voranschreiten kann."
+      },
+      "network": {
+        "title": "Netzwerk und Zusammenarbeit",
+        "description": "Für die Umsetzung unserer Konzepte greifen wir auf ein erfahrenes Netzwerk aus 3D-Visualisierungsdesignern, Fotografen, Webdesignern und Druckereien zurück. Gleichzeitig sind wir offen für die Zusammenarbeit mit neuen Partnern und übernehmen auf Wunsch die Koordination aller Beteiligten, um ein stimmiges Gesamtergebnis sicherzustellen."
+      }
+    }
+  },
+  "contact": {
+    "title": {
+      "first": "Con",
+      "second": "tact"
+    },
+    "subtitle": "LASSEN SIE UNS IN KONTAKT TRETEN! TELLEN SIE UNS EINIGE INFORMATIONEN ÜBER IHR PROJEKT!",
+    "sections": {
+      "project": {
+        "title": "IHR PROJEKT IST UNSERE MISSION"
+      },
+      "help": {
+        "title": "WIE KÖNNEN WIR IHNEN HELFEN? (oder bitte unten auswählen) *"
+      },
+      "services": {
+        "title": "WIE KÖNNEN WIR IHNEN HELFEN? (alle zutreffenden auswählen) *"
+      },
+      "source": {
+        "title": "WIE SIND SIE AUF UNS GESTOßEN?"
+      }
+    },
+    "fields": {
+      "name": "Name *",
+      "company": "Firma",
+      "website": "Website",
+      "email": "E-Mail *",
+      "phone": "Telefon *",
+      "projectTitle": "Projekttitel",
+      "location": "Projektstandort *",
+      "languageNote": "Sprachhinweis - Wir sprechen fließend Deutsch, Englisch und Polnisch. Kontaktieren Sie uns gerne in Ihrer bevorzugten Sprache!",
+      "budget": "Geschätztes Budget - Wählen Sie Ihr Budget",
+      "timelineStart": "Zeitplan (Start) - tt.mm.jjjj",
+      "timelineEnd": "Zeitplan (Ende) - tt.mm.jjjj",
+      "source": "Wie sind Sie auf uns gestoßen? - Option auswählen"
+    },
+    "options": {
+      "budget": {
+        "under50k": "Unter €50.000",
+        "50k100k": "€50.000 - €100.000",
+        "100k250k": "€100.000 - €250.000",
+        "250k500k": "€250.000 - €500.000",
+        "500k1m": "€500.000 - €1.000.000",
+        "over1m": "Über €1.000.000"
+      },
+      "source": {
+        "google": "Google-Suche",
+        "socialMedia": "Soziale Medien",
+        "referral": "Empfehlung",
+        "advertisement": "Werbung",
+        "other": "Sonstiges"
+      }
+    },
+    "services": {
+      "architecture": "Architektur",
+      "interiorDesign": "Innenarchitektur",
+      "oneRoom": "Ein-Zimmer-Transformation",
+      "staging": "Staging",
+      "outdoor": "Außenbereich",
+      "consultation": "Beratung"
+    },
+    "submit": "SENDEN"
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "HÄUFIGE FRAGEN",
+    "contactUs": "Kontaktieren Sie uns",
+    "questions": {
+      "timing": {
+        "question": "In welcher Projektphase ist der beste Zeitpunkt, um mit Ihnen zusammenzuarbeiten?",
+        "answer": "Idealerweise begleiten wir Ihr Projekt von Anfang an – bereits in der Auswahl- oder Planungsphase. Aber auch bei bestehenden Projekten mit erteilter Baugenehmigung können wir Optimierungen entwickeln, die die Genehmigung nicht beeinflussen."
+      },
+      "partialServices": {
+        "question": "Können wir Sie auch nur für einen Teil Ihres Leistungsspektrums beauftragen?",
+        "answer": "Ja. Unser 3-Schritte-Modell ist flexibel: Sie können einzelne Module – Upgrade Floorplan, Design oder Marketing Strategy – unabhängig voneinander buchen oder als Komplettpaket nutzen."
+      },
+      "upgradeFloorplan": {
+        "question": "Was genau beinhaltet der Service „Upgrade Floorplan\"?",
+        "answer": "Wir analysieren bestehende Grundrisse, optimieren die Flächennutzung, reduzieren unnötige Baukosten und passen die Planung präzise an die Bedürfnisse der Zielgruppe an – immer unter Berücksichtigung der Wirtschaftlichkeit."
+      },
+      "designConcept": {
+        "question": "Was zeichnet Ihr Design-Konzept im Vergleich zu klassischen Architekturbüros aus?",
+        "answer": "Unser Design entsteht aus einem tiefen Verständnis für die Zielgruppe, die Marktanforderungen und die Kostenstruktur. Wir schaffen einzigartige Konzepte mit Charakter, die sowohl emotional ansprechen als auch wirtschaftlich tragfähig sind."
+      },
+      "duration": {
+        "question": "Wie lange dauert ein typisches Beratungsprojekt?",
+        "answer": "Jeder einzelne Schritt – Upgrade Floorplan, Design oder Marketing Strategy – dauert in der Regel 4 bis 8 Wochen, je nach Umfang und Entscheidungsprozessen auf Kundenseite."
+      },
+      "externalTeams": {
+        "question": "Können bestehende externe Teams (z.B. Visualisierer, Fotografen) eingebunden werden?",
+        "answer": "Ja, selbstverständlich. Wir arbeiten mit einem etablierten Netzwerk, sind aber offen für neue Kooperationen und übernehmen auf Wunsch die Koordination aller beteiligten Teams."
+      },
+      "marketingStrategy": {
+        "question": "Was unterscheidet Ihre Marketingstrategie von klassischen Werbeagenturen?",
+        "answer": "Wir sind Architekten, die über Architektur erzählen. Das bedeutet: Unsere Storytelling-Ansätze basieren auf echtem architektonischem Verständnis und einer durchgängigen, authentischen Präsentation jedes Projekts."
+      },
+      "constructionSupport": {
+        "question": "Unterstützen Sie auch während der Bauphase?",
+        "answer": "Ja. Auf Wunsch begleiten wir Ihr Projekt bis zur Fertigstellung, um sicherzustellen, dass die Designidee konsequent umgesetzt und nicht im Bauprozess verwässert wird."
+      },
+      "collaboration": {
+        "question": "Wie läuft die Zusammenarbeit praktisch ab?",
+        "answer": "Nach einer Erstberatung erstellen wir ein individuelles Angebot und definieren gemeinsam mit Ihnen die Projektziele und Meilensteine. Transparente Kommunikation und klare Abstimmungsprozesse sorgen dafür, dass Ihr Projekt effizient voranschreitet."
+      },
+      "investment": {
+        "question": "Warum lohnt sich die Investition in Ihre Leistungen für Bauträger wirtschaftlich?",
+        "answer": "Mit gezielter Planung und marktgerechtem Design steigern wir die Attraktivität Ihres Projekts, reduzieren Baukosten und beschleunigen die Vermarktung – für schnellere Verkäufe und bessere Erlöse."
+      }
+    }
+  },
+  "faqPrivate": {
+    "title": "FAQ",
+    "subtitle": "Private Kund:innen Häufige Fragen",
+    "contactUs": "Kontaktieren Sie uns",
+    "questions": {
+      "projectProcess": {
+        "question": "Wie läuft ein Projekt mit Ihrem Büro ab?",
+        "answer": "Wir starten mit einem unverbindlichen Erstgespräch. Danach erhalten Sie von uns ein maßgeschneidertes Angebot. Nach Angebotsannahme beginnt die Zusammenarbeit – vom Entwurf bis zur Umsetzung begleiten wir Sie Schritt für Schritt."
+      },
+      "projectSize": {
+        "question": "Muss mein Projekt eine bestimmte Größe haben?",
+        "answer": "Nein. Wir begleiten sowohl kleine Eingriffe wie Bad- oder Küchenumbauten als auch umfassende Sanierungen, Zubauten oder Neubauten."
+      },
+      "costs": {
+        "question": "Was kostet eine Zusammenarbeit mit Ihnen?",
+        "answer": "Projekte können pauschal oder auf Stundenbasis abgerechnet werden. Unser Stundensatz für Privatkunden beträgt 180 € – er ermöglicht die Qualität, Sorgfalt und individuelle Betreuung, für die wir stehen."
+      },
+      "modularServices": {
+        "question": "Kann ich einzelne Leistungen buchen, z. B. nur ein Konzept oder nur eine Bauaufsicht?",
+        "answer": "Ja. Unsere Leistungen sind modular – Sie können nur das buchen, was Sie benötigen: vom Konzept über Detailplanung bis zur Ausführung."
+      },
+      "existingPlans": {
+        "question": "Arbeiten Sie auch mit bestehenden Plänen oder Baugenehmigungen?",
+        "answer": "Ja. Wenn bereits Pläne oder Genehmigungen bestehen, steigen wir auf dieser Basis ein und entwickeln darauf aufbauend weiter."
+      },
+      "materialSelection": {
+        "question": "Können Sie uns bei der Auswahl von Materialien, Möbeln und Farben beraten?",
+        "answer": "Ja. Wir bieten sowohl vollständige Gestaltungskonzepte inkl. Ausführung, Möblierung und Home Staging als auch kurze Beratungen bei Einzelfragen. Kontaktieren Sie uns, um herauszufinden, welches Angebot zu Ihnen passt."
+      },
+      "difference": {
+        "question": "Was unterscheidet Ihr Büro von anderen Architekturbüros?",
+        "answer": "Wir arbeiten ganzheitlich: Architektur, Innenraum und Außenraum kommen aus einer Hand. Unsere Lösungen sind individuell, langlebig und mit einem hohen Anspruch an Alltagstauglichkeit und Atmosphäre."
+      },
+      "projectDuration": {
+        "question": "Wie lange dauert ein Projekt?",
+        "answer": "Von kleinen Wochenend-Transformationen bis zu umfassenden Projekten über 18 Monate – alles ist möglich. Wir geben Ihnen zu Projektbeginn eine realistische Einschätzung."
+      },
+      "location": {
+        "question": "Arbeiten Sie nur in Wien oder auch außerhalb?",
+        "answer": "Unser Schwerpunkt liegt in Wien und Umgebung, aber wir betreuen auch Projekte in anderen Regionen nach Rücksprache."
+      },
+      "onSitePresence": {
+        "question": "Muss ich während des Projekts immer vor Ort sein?",
+        "answer": "Nein. Wir übernehmen gerne die Koordination für Sie und halten Sie regelmäßig mit Plänen, Visualisierungen und Updates auf dem Laufenden."
+      }
     }
   },
   "footer": {
